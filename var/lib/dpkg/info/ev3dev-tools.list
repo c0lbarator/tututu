@@ -1,0 +1,16 @@
+/.
+/usr
+/usr/bin
+/usr/sbin
+/usr/share
+/usr/share/doc
+/usr/share/doc/ev3dev-tools
+/usr/share/doc/ev3dev-tools/changelog.gz
+/usr/share/doc/ev3dev-tools/copyright
+/usr/share/ev3dev-tools
+/usr/share/ev3dev-tools/ev3dev-config.sh
+/usr/share/ev3dev-tools/ev3dev-powerinfo.sh
+/usr/share/ev3dev-tools/ev3dev-system-info.sh
+/usr/bin/ev3dev-powerinfo
+/usr/bin/ev3dev-sysinfo
+/usr/sbin/ev3dev-config

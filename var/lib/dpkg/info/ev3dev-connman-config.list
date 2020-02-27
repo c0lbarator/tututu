@@ -1,0 +1,10 @@
+/.
+/etc
+/etc/connman
+/etc/connman/main.conf.ev3dev
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/ev3dev-connman-config
+/usr/share/doc/ev3dev-connman-config/changelog.gz
+/usr/share/doc/ev3dev-connman-config/copyright

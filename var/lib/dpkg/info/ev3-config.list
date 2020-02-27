@@ -1,0 +1,15 @@
+/.
+/etc
+/etc/kbd
+/etc/kbd/config.d
+/etc/kbd/config.d/ev3
+/etc/modprobe.d
+/etc/modprobe.d/ev3.conf
+/etc/sysctl.d
+/etc/sysctl.d/ev3.conf
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/ev3-config
+/usr/share/doc/ev3-config/changelog.gz
+/usr/share/doc/ev3-config/copyright

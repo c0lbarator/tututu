@@ -1,0 +1,4 @@
+b13ed98e4ced44118a91caa7e07466c1  lib/systemd/system/brickd.service
+225bf617368e59b1a4b2757189da6d1f  usr/sbin/brickd
+2ab76aefc9438a83b2ff841aecc4d6d0  usr/share/doc/brickd/changelog.gz
+16a99f85459e52c4f8352dedc8e26324  usr/share/doc/brickd/copyright

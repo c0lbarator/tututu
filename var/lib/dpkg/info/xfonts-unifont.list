@@ -1,0 +1,15 @@
+/.
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/xfonts-unifont
+/usr/share/doc/xfonts-unifont/README.gz
+/usr/share/doc/xfonts-unifont/changelog.Debian.gz
+/usr/share/doc/xfonts-unifont/changelog.gz
+/usr/share/doc/xfonts-unifont/copyright
+/usr/share/fonts
+/usr/share/fonts/X11
+/usr/share/fonts/X11/misc
+/usr/share/fonts/X11/misc/unifont.pcf.gz
+/usr/share/fonts/X11/misc/unifont_csur.pcf.gz
+/usr/share/fonts/X11/misc/unifont_sample.pcf.gz

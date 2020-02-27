@@ -1,0 +1,14 @@
+[wifi_c46e1f1185bc_626b62_managed_none]
+Name=bkb
+SSID=626b62
+Frequency=2437
+Favorite=true
+AutoConnect=true
+Modified=2020-02-26T19:01:45.211122Z
+IPv4.method=manual
+IPv4.DHCP.LastAddress=192.168.43.175
+IPv6.method=auto
+IPv6.privacy=disabled
+IPv4.netmask_prefixlen=24
+IPv4.local_address=192.168.137.3
+Nameservers=192.168.137.1;

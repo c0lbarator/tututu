@@ -1,0 +1,13 @@
+/.
+/usr
+/usr/lib
+/usr/lib/arm-linux-gnueabi
+/usr/lib/arm-linux-gnueabi/grx-3.0
+/usr/lib/arm-linux-gnueabi/grx-3.0/plugins
+/usr/lib/arm-linux-gnueabi/grx-3.0/plugins/2
+/usr/lib/arm-linux-gnueabi/grx-3.0/plugins/2/libgrx-3.0-vdriver-linuxfb.so
+/usr/share
+/usr/share/doc
+/usr/share/doc/libgrx-3.0-2-plugin-linuxfb
+/usr/share/doc/libgrx-3.0-2-plugin-linuxfb/changelog.gz
+/usr/share/doc/libgrx-3.0-2-plugin-linuxfb/copyright

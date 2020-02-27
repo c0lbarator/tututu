@@ -1,0 +1,16 @@
+/.
+/usr
+/usr/lib
+/usr/lib/python3
+/usr/lib/python3/dist-packages
+/usr/lib/python3/dist-packages/agt
+/usr/lib/python3/dist-packages/agt/__init__.py
+/usr/lib/python3/dist-packages/agt/alexa_gadget.py
+/usr/lib/python3/dist-packages/agt/bluetooth.py
+/usr/lib/python3/dist-packages/agt/messages_pb2.py
+/usr/lib/python3/dist-packages/agt-1.0.egg-info
+/usr/share
+/usr/share/doc
+/usr/share/doc/python3-agt
+/usr/share/doc/python3-agt/changelog.gz
+/usr/share/doc/python3-agt/copyright

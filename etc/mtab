@@ -1,0 +1,15 @@
+sysfs /sys sysfs rw,nosuid,nodev,noexec,relatime 0 0
+proc /proc proc rw,relatime 0 0
+udev /dev devtmpfs rw,nosuid,relatime,size=26624k,nr_inodes=6656,mode=755 0 0
+devpts /dev/pts devpts rw,nosuid,noexec,relatime,gid=5,mode=620,ptmxmode=000 0 0
+tmpfs /run tmpfs rw,nosuid,noexec,relatime,size=20480k,nr_inodes=4096,mode=755 0 0
+/dev/mmcblk0p2 / ext4 rw,noatime,errors=remount-ro,data=ordered 0 0
+tmpfs /dev/shm tmpfs rw,nosuid,nodev 0 0
+tmpfs /run/lock tmpfs rw,nosuid,nodev,noexec,relatime,size=5120k 0 0
+tmpfs /sys/fs/cgroup tmpfs ro,nosuid,nodev,noexec,mode=755 0 0
+cgroup /sys/fs/cgroup/systemd cgroup rw,nosuid,nodev,noexec,relatime,xattr,release_agent=/lib/systemd/systemd-cgroups-agent,name=systemd 0 0
+sunrpc /run/rpc_pipefs rpc_pipefs rw,relatime 0 0
+mqueue /dev/mqueue mqueue rw,relatime 0 0
+configfs /sys/kernel/config configfs rw,relatime 0 0
+/dev/mmcblk0p1 /boot/flash vfat rw,noatime,fmask=0022,dmask=0022,codepage=437,iocharset=iso8859-1,shortname=mixed,errors=remount-ro 0 0
+tmpfs /run/user/1000 tmpfs rw,nosuid,nodev,relatime,size=5760k,mode=700,uid=1000,gid=1000 0 0

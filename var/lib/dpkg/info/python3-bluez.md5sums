@@ -1,0 +1,15 @@
+7f16082ca87c332d27c50fef5bf09670  usr/lib/python3/dist-packages/PyBluez-0.22.egg-info/PKG-INFO
+68b329da9893e34099c7d8ad5cb9c940  usr/lib/python3/dist-packages/PyBluez-0.22.egg-info/dependency_links.txt
+1eb5f211921fe91721d2a54db4d89b14  usr/lib/python3/dist-packages/PyBluez-0.22.egg-info/requires.txt
+888f0bccb0d344cb050d16680dfd3cab  usr/lib/python3/dist-packages/PyBluez-0.22.egg-info/top_level.txt
+b0711fcdd47ca148f001ad1a71f412c6  usr/lib/python3/dist-packages/bluetooth/__init__.py
+7dc1109f38d36adfa48f64895aae402e  usr/lib/python3/dist-packages/bluetooth/_bluetooth.cpython-35m-arm-linux-gnueabi.so
+194488c5a548dc4e7d96d3815c8a3773  usr/lib/python3/dist-packages/bluetooth/ble.py
+587b81390f21b3ab195b68ea55ef54f8  usr/lib/python3/dist-packages/bluetooth/bluez.py
+4384332407082067bf9b35ba1172009e  usr/lib/python3/dist-packages/bluetooth/btcommon.py
+a78dbdd57a20a9eb241fdc8473df4b20  usr/lib/python3/dist-packages/bluetooth/msbt.py
+4f3976e3409e14784ad741351d4c3457  usr/lib/python3/dist-packages/bluetooth/osx.py
+7c7d4dc88c78f9fb8b53a2ad18a3f8fb  usr/lib/python3/dist-packages/bluetooth/widcomm.py
+a8d51838b97ff1fc89ad6eabc5a30e1a  usr/share/doc/python3-bluez/changelog.Debian.gz
+28bbafd1789394cae6eab7236730df7c  usr/share/doc/python3-bluez/changelog.gz
+8e790a5ddfcb250c1e57d8fda3f5da48  usr/share/doc/python3-bluez/copyright

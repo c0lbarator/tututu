@@ -1,0 +1,16 @@
+#!/bin/sh
+
+set -e
+
+basedir="/usr/lib/jvm/jri-11-ev3"
+jre_tools='jar jarsigner java jrunscript keytool rmid rmiregistry'
+
+if [ "$1" = "remove" ] || [ "$1" = "deconfigure" ]; then
+    for i in $jre_tools; do
+	update-alternatives --remove $i $basedir/bin/$i
+    done
+
+    rm -f $basedir/lib/*/classes.jsa
+fi
+
+

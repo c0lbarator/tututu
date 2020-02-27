@@ -1,0 +1,10 @@
+/.
+/etc
+/etc/bluetooth
+/etc/bluetooth/main.conf.ev3dev
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/ev3dev-bluez-config
+/usr/share/doc/ev3dev-bluez-config/copyright
+/usr/share/doc/ev3dev-bluez-config/changelog.gz

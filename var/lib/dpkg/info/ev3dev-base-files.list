@@ -1,0 +1,16 @@
+/.
+/etc
+/etc/dpkg
+/etc/dpkg/origins
+/etc/dpkg/origins/default.ev3dev
+/etc/issue.ev3dev
+/etc/issue.net.ev3dev
+/etc/motd.ev3dev
+/usr
+/usr/lib
+/usr/lib/os-release.ev3dev
+/usr/share
+/usr/share/doc
+/usr/share/doc/ev3dev-base-files
+/usr/share/doc/ev3dev-base-files/changelog.gz
+/usr/share/doc/ev3dev-base-files/copyright

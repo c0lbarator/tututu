@@ -1,0 +1,1364 @@
+Package: libxdmcp6
+Architecture: armel
+Auto-Installed: 1
+
+Package: libdevmapper1.02.1
+Architecture: armel
+Auto-Installed: 1
+
+Package: libssh2-1
+Architecture: armel
+Auto-Installed: 1
+
+Package: devio
+Architecture: armel
+Auto-Installed: 1
+
+Package: libdns-export162
+Architecture: armel
+Auto-Installed: 1
+
+Package: libusb-1.0-0
+Architecture: armel
+Auto-Installed: 1
+
+Package: dmsetup
+Architecture: armel
+Auto-Installed: 1
+
+Package: libkrb5-3
+Architecture: armel
+Auto-Installed: 1
+
+Package: libgssapi-krb5-2
+Architecture: armel
+Auto-Installed: 1
+
+Package: libnghttp2-14
+Architecture: armel
+Auto-Installed: 1
+
+Package: libseccomp2
+Architecture: armel
+Auto-Installed: 1
+
+Package: libfontenc1
+Architecture: armel
+Auto-Installed: 1
+
+Package: libisccfg140
+Architecture: armel
+Auto-Installed: 1
+
+Package: libpopt0
+Architecture: armel
+Auto-Installed: 1
+
+Package: libdbus-1-3
+Architecture: armel
+Auto-Installed: 1
+
+Package: libpcsclite1
+Architecture: armel
+Auto-Installed: 1
+
+Package: libsasl2-modules-db
+Architecture: armel
+Auto-Installed: 1
+
+Package: vim-common
+Architecture: armel
+Auto-Installed: 1
+
+Package: libwacom-common
+Architecture: armel
+Auto-Installed: 1
+
+Package: libcurl3
+Architecture: armel
+Auto-Installed: 1
+
+Package: libldap-2.4-2
+Architecture: armel
+Auto-Installed: 1
+
+Package: openssl
+Architecture: armel
+Auto-Installed: 1
+
+Package: libportaudio2
+Architecture: armel
+Auto-Installed: 1
+
+Package: libnl-genl-3-200
+Architecture: armel
+Auto-Installed: 1
+
+Package: libespeak1
+Architecture: armel
+Auto-Installed: 1
+
+Package: espeak-data
+Architecture: armel
+Auto-Installed: 1
+
+Package: libparted2
+Architecture: armel
+Auto-Installed: 1
+
+Package: dbus
+Architecture: armel
+Auto-Installed: 1
+
+Package: libkmod2
+Architecture: armel
+Auto-Installed: 1
+
+Package: libpsl5
+Architecture: armel
+Auto-Installed: 1
+
+Package: libasound2-data
+Architecture: armel
+Auto-Installed: 1
+
+Package: libicu57
+Architecture: armel
+Auto-Installed: 1
+
+Package: libelf1
+Architecture: armel
+Auto-Installed: 1
+
+Package: libev3devkit-0.5-0
+Architecture: armel
+Auto-Installed: 1
+
+Package: libogg0
+Architecture: armel
+Auto-Installed: 1
+
+Package: libbsd0
+Architecture: armel
+Auto-Installed: 1
+
+Package: bind9-host
+Architecture: armel
+Auto-Installed: 1
+
+Package: mtd-utils
+Architecture: armel
+Auto-Installed: 1
+
+Package: libwrap0
+Architecture: armel
+Auto-Installed: 1
+
+Package: libavahi-common-data
+Architecture: armel
+Auto-Installed: 1
+
+Package: libgmp10
+Architecture: armel
+Auto-Installed: 1
+
+Package: perl-modules-5.24
+Architecture: armel
+Auto-Installed: 1
+
+Package: libavahi-common3
+Architecture: armel
+Auto-Installed: 1
+
+Package: libncurses5
+Architecture: armel
+Auto-Installed: 1
+
+Package: xfonts-utils
+Architecture: armel
+Auto-Installed: 1
+
+Package: console-setup-linux
+Architecture: armel
+Auto-Installed: 1
+
+Package: linux-base
+Architecture: armel
+Auto-Installed: 1
+
+Package: liblocale-gettext-perl
+Architecture: armel
+Auto-Installed: 1
+
+Package: openssh-sftp-server
+Architecture: armel
+Auto-Installed: 1
+
+Package: libk5crypto3
+Architecture: armel
+Auto-Installed: 1
+
+Package: libisc160
+Architecture: armel
+Auto-Installed: 1
+
+Package: libdaemon0
+Architecture: armel
+Auto-Installed: 1
+
+Package: libmtdev1
+Architecture: armel
+Auto-Installed: 1
+
+Package: libip6tc0
+Architecture: armel
+Auto-Installed: 1
+
+Package: udev
+Architecture: armel
+Auto-Installed: 1
+
+Package: libsasl2-2
+Architecture: armel
+Auto-Installed: 1
+
+Package: readline-common
+Architecture: armel
+Auto-Installed: 1
+
+Package: libklibc
+Architecture: armel
+Auto-Installed: 1
+
+Package: libmagic1
+Architecture: armel
+Auto-Installed: 1
+
+Package: xkb-data
+Architecture: armel
+Auto-Installed: 1
+
+Package: kbd
+Architecture: armel
+Auto-Installed: 1
+
+Package: libgudev-1.0-0
+Architecture: armel
+Auto-Installed: 1
+
+Package: fontconfig-config
+Architecture: armel
+Auto-Installed: 1
+
+Package: libprocps6
+Architecture: armel
+Auto-Installed: 1
+
+Package: libx11-6
+Architecture: armel
+Auto-Installed: 1
+
+Package: libopus0
+Architecture: armel
+Auto-Installed: 1
+
+Package: libexpat1
+Architecture: armel
+Auto-Installed: 1
+
+Package: libapparmor1
+Architecture: armel
+Auto-Installed: 1
+
+Package: console-runner
+Architecture: armel
+Auto-Installed: 1
+
+Package: libsm6
+Architecture: armel
+Auto-Installed: 1
+
+Package: libjim0.76
+Architecture: armel
+Auto-Installed: 1
+
+Package: libperl5.24
+Architecture: armel
+Auto-Installed: 1
+
+Package: libiptc0
+Architecture: armel
+Auto-Installed: 1
+
+Package: libinput-bin
+Architecture: armel
+Auto-Installed: 1
+
+Package: libgrx-3.0-2-plugin-linuxfb
+Architecture: armel
+Auto-Installed: 1
+
+Package: libgrx-3.0-2
+Architecture: armel
+Auto-Installed: 1
+
+Package: libnfnetlink0
+Architecture: armel
+Auto-Installed: 1
+
+Package: libc-l10n
+Architecture: armel
+Auto-Installed: 1
+
+Package: libtiff5
+Architecture: armel
+Auto-Installed: 1
+
+Package: libxau6
+Architecture: armel
+Auto-Installed: 1
+
+Package: librtmp1
+Architecture: armel
+Auto-Installed: 1
+
+Package: libisc-export160
+Architecture: armel
+Auto-Installed: 1
+
+Package: libmagic-mgc
+Architecture: armel
+Auto-Installed: 1
+
+Package: libpulse0
+Architecture: armel
+Auto-Installed: 1
+
+Package: libgeoip1
+Architecture: armel
+Auto-Installed: 1
+
+Package: libxcb1
+Architecture: armel
+Auto-Installed: 1
+
+Package: libxtst6
+Architecture: armel
+Auto-Installed: 1
+
+Package: libxi6
+Architecture: armel
+Auto-Installed: 1
+
+Package: libkrb5support0
+Architecture: armel
+Auto-Installed: 1
+
+Package: whiptail
+Architecture: armel
+Auto-Installed: 1
+
+Package: libvorbisenc2
+Architecture: armel
+Auto-Installed: 1
+
+Package: libnewt0.52
+Architecture: armel
+Auto-Installed: 1
+
+Package: libcap2
+Architecture: armel
+Auto-Installed: 1
+
+Package: libsonic0
+Architecture: armel
+Auto-Installed: 1
+
+Package: libnl-3-200
+Architecture: armel
+Auto-Installed: 1
+
+Package: libldap-common
+Architecture: armel
+Auto-Installed: 1
+
+Package: libavahi-core7
+Architecture: armel
+Auto-Installed: 1
+
+Package: libgdbm3
+Architecture: armel
+Auto-Installed: 1
+
+Package: liblwres141
+Architecture: armel
+Auto-Installed: 1
+
+Package: fonts-dejavu-core
+Architecture: armel
+Auto-Installed: 1
+
+Package: libjack-jackd2-0
+Architecture: armel
+Auto-Installed: 1
+
+Package: ucf
+Architecture: armel
+Auto-Installed: 1
+
+Package: libkeyutils1
+Architecture: armel
+Auto-Installed: 1
+
+Package: vim-runtime
+Architecture: armel
+Auto-Installed: 1
+
+Package: libnetfilter-conntrack3
+Architecture: armel
+Auto-Installed: 1
+
+Package: libxfont1
+Architecture: armel
+Auto-Installed: 1
+
+Package: libsndfile1
+Architecture: armel
+Auto-Installed: 1
+
+Package: systemd
+Architecture: armel
+Auto-Installed: 1
+
+Package: libgomp1
+Architecture: armel
+Auto-Installed: 1
+
+Package: usb-modeswitch-data
+Architecture: armel
+Auto-Installed: 1
+
+Package: libcryptsetup4
+Architecture: armel
+Auto-Installed: 1
+
+Package: xxd
+Architecture: armel
+Auto-Installed: 1
+
+Package: libhogweed4
+Architecture: armel
+Auto-Installed: 1
+
+Package: libfontconfig1
+Architecture: armel
+Auto-Installed: 1
+
+Package: openssh-server
+Architecture: armel
+Auto-Installed: 1
+
+Package: libasyncns0
+Architecture: armel
+Auto-Installed: 1
+
+Package: libx11-data
+Architecture: armel
+Auto-Installed: 1
+
+Package: iproute2
+Architecture: armel
+Auto-Installed: 1
+
+Package: libreadline7
+Architecture: armel
+Auto-Installed: 1
+
+Package: openssh-client
+Architecture: armel
+Auto-Installed: 1
+
+Package: keyboard-configuration
+Architecture: armel
+Auto-Installed: 1
+
+Package: libasound2
+Architecture: armel
+Auto-Installed: 1
+
+Package: libgpm2
+Architecture: armel
+Auto-Installed: 1
+
+Package: libdns162
+Architecture: armel
+Auto-Installed: 1
+
+Package: libnettle6
+Architecture: armel
+Auto-Installed: 1
+
+Package: libxtables12
+Architecture: armel
+Auto-Installed: 1
+
+Package: libjbig0
+Architecture: armel
+Auto-Installed: 1
+
+Package: libxml2
+Architecture: armel
+Auto-Installed: 1
+
+Package: libflac8
+Architecture: armel
+Auto-Installed: 1
+
+Package: libidn11
+Architecture: armel
+Auto-Installed: 1
+
+Package: cpio
+Architecture: armel
+Auto-Installed: 1
+
+Package: libgnutls30
+Architecture: armel
+Auto-Installed: 1
+
+Package: libedit2
+Architecture: armel
+Auto-Installed: 1
+
+Package: libwacom2
+Architecture: armel
+Auto-Installed: 1
+
+Package: libfreetype6
+Architecture: armel
+Auto-Installed: 1
+
+Package: perl
+Architecture: armel
+Auto-Installed: 1
+
+Package: libffi6
+Architecture: armel
+Auto-Installed: 1
+
+Package: libunistring0
+Architecture: armel
+Auto-Installed: 1
+
+Package: libp11-kit0
+Architecture: armel
+Auto-Installed: 1
+
+Package: libisccc140
+Architecture: armel
+Auto-Installed: 1
+
+Package: x11-common
+Architecture: armel
+Auto-Installed: 1
+
+Package: ev3devkit-data
+Architecture: armel
+Auto-Installed: 1
+
+Package: libnetpbm10
+Architecture: armel
+Auto-Installed: 1
+
+Package: libvorbis0a
+Architecture: armel
+Auto-Installed: 1
+
+Package: libbind9-140
+Architecture: armel
+Auto-Installed: 1
+
+Package: libssl1.1
+Architecture: armel
+Auto-Installed: 1
+
+Package: libtasn1-6
+Architecture: armel
+Auto-Installed: 1
+
+Package: libopts25
+Architecture: armel
+Auto-Installed: 1
+
+Package: libice6
+Architecture: armel
+Auto-Installed: 1
+
+Package: xfonts-encodings
+Architecture: armel
+Auto-Installed: 1
+
+Package: libip4tc0
+Architecture: armel
+Auto-Installed: 1
+
+Package: libxkbcommon0
+Architecture: armel
+Auto-Installed: 1
+
+Package: klibc-utils
+Architecture: armel
+Auto-Installed: 1
+
+Package: libsamplerate0
+Architecture: armel
+Auto-Installed: 1
+
+Package: libglib2.0-0
+Architecture: armel
+Auto-Installed: 1
+
+Package: libidn2-0
+Architecture: armel
+Auto-Installed: 1
+
+Package: libjpeg62-turbo
+Architecture: armel
+Auto-Installed: 1
+
+Package: initramfs-tools-core
+Architecture: armel
+Auto-Installed: 1
+
+Package: initramfs-tools
+Architecture: armel
+Auto-Installed: 1
+
+Package: libx11-xcb1
+Architecture: armel
+Auto-Installed: 1
+
+Package: libmnl0
+Architecture: armel
+Auto-Installed: 1
+
+Package: libinput10
+Architecture: armel
+Auto-Installed: 1
+
+Package: libssl1.0.2
+Architecture: armel
+Auto-Installed: 1
+
+Package: libfftw3-single3
+Architecture: armel
+Auto-Installed: 1
+
+Package: libxext6
+Architecture: armel
+Auto-Installed: 1
+
+Package: liblzo2-2
+Architecture: armel
+Auto-Installed: 1
+
+Package: libslang2
+Architecture: armel
+Auto-Installed: 1
+
+Package: libpng16-16
+Architecture: armel
+Auto-Installed: 1
+
+Package: libevdev2
+Architecture: armel
+Auto-Installed: 1
+
+Package: linux-image-4.14.117-ev3dev-2.3.4-ev3
+Architecture: armel
+Auto-Installed: 1
+
+Package: libgrx-3.0-1
+Architecture: armel
+Auto-Installed: 1
+
+Package: rtl8188eu-modules-4.14.117-ev3dev-2.3.4-ev3
+Architecture: armel
+Auto-Installed: 1
+
+Package: fonts-tom-thumb
+Architecture: armel
+Auto-Installed: 1
+
+Package: rtl8812au-modules-4.14.117-ev3dev-2.3.4-ev3
+Architecture: armel
+Auto-Installed: 1
+
+Package: libjson-glib-1.0-0
+Architecture: armel
+Auto-Installed: 1
+
+Package: libc-ares2
+Architecture: armel
+Auto-Installed: 1
+
+Package: python-six
+Architecture: armel
+Auto-Installed: 1
+
+Package: libsoup-gnome2.4-1
+Architecture: armel
+Auto-Installed: 1
+
+Package: libcroco3
+Architecture: armel
+Auto-Installed: 1
+
+Package: libwebp6
+Architecture: armel
+Auto-Installed: 1
+
+Package: libldb1
+Architecture: armel
+Auto-Installed: 1
+
+Package: fuse
+Architecture: armel
+Auto-Installed: 1
+
+Package: libpangoft2-1.0-0
+Architecture: armel
+Auto-Installed: 1
+
+Package: glib-networking-services
+Architecture: armel
+Auto-Installed: 1
+
+Package: gir1.2-gudev-1.0
+Architecture: armel
+Auto-Installed: 1
+
+Package: libcups2
+Architecture: armel
+Auto-Installed: 1
+
+Package: libxcb-xfixes0
+Architecture: armel
+Auto-Installed: 1
+
+Package: ruby2.3
+Architecture: armel
+Auto-Installed: 1
+
+Package: libgirepository-1.0-1
+Architecture: armel
+Auto-Installed: 1
+
+Package: rake
+Architecture: armel
+Auto-Installed: 1
+
+Package: libgdk-pixbuf2.0-0
+Architecture: armel
+Auto-Installed: 1
+
+Package: libproxy1v5
+Architecture: armel
+Auto-Installed: 1
+
+Package: liblcms2-2
+Architecture: armel
+Auto-Installed: 1
+
+Package: dconf-service
+Architecture: armel
+Auto-Installed: 1
+
+Package: libcairo-gobject2
+Architecture: armel
+Auto-Installed: 1
+
+Package: libev4
+Architecture: armel
+Auto-Installed: 1
+
+Package: libwbclient0
+Architecture: armel
+Auto-Installed: 1
+
+Package: git-man
+Architecture: armel
+Auto-Installed: 1
+
+Package: ruby-net-telnet
+Architecture: armel
+Auto-Installed: 1
+
+Package: glib-networking
+Architecture: armel
+Auto-Installed: 1
+
+Package: libgtk-3-common
+Architecture: armel
+Auto-Installed: 1
+
+Package: libxcb-present0
+Architecture: armel
+Auto-Installed: 1
+
+Package: libgtk-3-0
+Architecture: armel
+Auto-Installed: 1
+
+Package: libgjs0e
+Architecture: armel
+Auto-Installed: 1
+
+Package: pixy-rules
+Architecture: armel
+Auto-Installed: 1
+
+Package: libpixman-1-0
+Architecture: armel
+Auto-Installed: 1
+
+Package: python2.7-minimal
+Architecture: armel
+Auto-Installed: 1
+
+Package: python-gi
+Architecture: armel
+Auto-Installed: 1
+
+Package: libsqlite3-0
+Architecture: armel
+Auto-Installed: 1
+
+Package: librsvg2-common
+Architecture: armel
+Auto-Installed: 1
+
+Package: libxrender1
+Architecture: armel
+Auto-Installed: 1
+
+Package: libgnome-keyring-common
+Architecture: armel
+Auto-Installed: 1
+
+Package: dconf-gsettings-backend
+Architecture: armel
+Auto-Installed: 1
+
+Package: libpython2.7
+Architecture: armel
+Auto-Installed: 1
+
+Package: python2.7
+Architecture: armel
+Auto-Installed: 1
+
+Package: python3-pil
+Architecture: armel
+Auto-Installed: 1
+
+Package: libxcursor1
+Architecture: armel
+Auto-Installed: 1
+
+Package: python3.5
+Architecture: armel
+Auto-Installed: 1
+
+Package: libthai-data
+Architecture: armel
+Auto-Installed: 1
+
+Package: python3.5-minimal
+Architecture: armel
+Auto-Installed: 1
+
+Package: mime-support
+Architecture: armel
+Auto-Installed: 1
+
+Package: libegl1-mesa
+Architecture: armel
+Auto-Installed: 1
+
+Package: libxcb-shm0
+Architecture: armel
+Auto-Installed: 1
+
+Package: libepoxy0
+Architecture: armel
+Auto-Installed: 1
+
+Package: python3-six
+Architecture: armel
+Auto-Installed: 1
+
+Package: gsettings-desktop-schemas
+Architecture: armel
+Auto-Installed: 1
+
+Package: libxcb-render0
+Architecture: armel
+Auto-Installed: 1
+
+Package: libmpdec2
+Architecture: armel
+Auto-Installed: 1
+
+Package: glib-networking-common
+Architecture: armel
+Auto-Installed: 1
+
+Package: libsoup2.4-1
+Architecture: armel
+Auto-Installed: 1
+
+Package: ruby-minitest
+Architecture: armel
+Auto-Installed: 1
+
+Package: libtalloc2
+Architecture: armel
+Auto-Installed: 1
+
+Package: librecode0
+Architecture: armel
+Auto-Installed: 1
+
+Package: libwebpdemux2
+Architecture: armel
+Auto-Installed: 1
+
+Package: libgbm1
+Architecture: armel
+Auto-Installed: 1
+
+Package: libxshmfence1
+Architecture: armel
+Auto-Installed: 1
+
+Package: python-talloc
+Architecture: armel
+Auto-Installed: 1
+
+Package: libboost-chrono1.62.0
+Architecture: armel
+Auto-Installed: 1
+
+Package: libwayland-client0
+Architecture: armel
+Auto-Installed: 1
+
+Package: samba-libs
+Architecture: armel
+Auto-Installed: 1
+
+Package: libpython-stdlib
+Architecture: armel
+Auto-Installed: 1
+
+Package: libuv1
+Architecture: armel
+Auto-Installed: 1
+
+Package: python3-minimal
+Architecture: armel
+Auto-Installed: 1
+
+Package: libatk1.0-0
+Architecture: armel
+Auto-Installed: 1
+
+Package: libxcomposite1
+Architecture: armel
+Auto-Installed: 1
+
+Package: libmosquitto1
+Architecture: armel
+Auto-Installed: 1
+
+Package: adwaita-icon-theme
+Architecture: armel
+Auto-Installed: 1
+
+Package: gir1.2-grx-3.0
+Architecture: armel
+Auto-Installed: 1
+
+Package: libpangocairo-1.0-0
+Architecture: armel
+Auto-Installed: 1
+
+Package: gir1.2-glib-2.0
+Architecture: armel
+Auto-Installed: 1
+
+Package: libruby2.3
+Architecture: armel
+Auto-Installed: 1
+
+Package: libatspi2.0-0
+Architecture: armel
+Auto-Installed: 1
+
+Package: librsvg2-2
+Architecture: armel
+Auto-Installed: 1
+
+Package: libpython3-stdlib
+Architecture: armel
+Auto-Installed: 1
+
+Package: libfuse2
+Architecture: armel
+Auto-Installed: 1
+
+Package: libxinerama1
+Architecture: armel
+Auto-Installed: 1
+
+Package: libwayland-egl1-mesa
+Architecture: armel
+Auto-Installed: 1
+
+Package: libtirpc1
+Architecture: armel
+Auto-Installed: 1
+
+Package: python-pkg-resources
+Architecture: armel
+Auto-Installed: 1
+
+Package: libjson-glib-1.0-common
+Architecture: armel
+Auto-Installed: 1
+
+Package: libxrandr2
+Architecture: armel
+Auto-Installed: 1
+
+Package: libdrm2
+Architecture: armel
+Auto-Installed: 1
+
+Package: python3-pkg-resources
+Architecture: armel
+Auto-Installed: 1
+
+Package: libcolord2
+Architecture: armel
+Auto-Installed: 1
+
+Package: shared-mime-info
+Architecture: armel
+Auto-Installed: 1
+
+Package: libdbus-glib-1-2
+Architecture: armel
+Auto-Installed: 1
+
+Package: dh-python
+Architecture: armel
+Auto-Installed: 1
+
+Package: hicolor-icon-theme
+Architecture: armel
+Auto-Installed: 1
+
+Package: ruby-power-assert
+Architecture: armel
+Auto-Installed: 1
+
+Package: libxfixes3
+Architecture: armel
+Auto-Installed: 1
+
+Package: libthai0
+Architecture: armel
+Auto-Installed: 1
+
+Package: libwebpmux2
+Architecture: armel
+Auto-Installed: 1
+
+Package: libgdk-pixbuf2.0-common
+Architecture: armel
+Auto-Installed: 1
+
+Package: libsmbclient
+Architecture: armel
+Auto-Installed: 1
+
+Package: libtdb1
+Architecture: armel
+Auto-Installed: 1
+
+Package: python3-dbus
+Architecture: armel
+Auto-Installed: 1
+
+Package: libmozjs-24-0
+Architecture: armel
+Auto-Installed: 1
+
+Package: rubygems-integration
+Architecture: armel
+Auto-Installed: 1
+
+Package: libgraphite2-3
+Architecture: armel
+Auto-Installed: 1
+
+Package: libgnome-keyring0
+Architecture: armel
+Auto-Installed: 1
+
+Package: libevent-2.0-5
+Architecture: armel
+Auto-Installed: 1
+
+Package: libxdamage1
+Architecture: armel
+Auto-Installed: 1
+
+Package: python3-plumbum
+Architecture: armel
+Auto-Installed: 1
+
+Package: librest-0.7-0
+Architecture: armel
+Auto-Installed: 1
+
+Package: libatk-bridge2.0-0
+Architecture: armel
+Auto-Installed: 1
+
+Package: libpython2.7-minimal
+Architecture: armel
+Auto-Installed: 1
+
+Package: gtk-update-icon-cache
+Architecture: armel
+Auto-Installed: 1
+
+Package: libpython3.5-stdlib
+Architecture: armel
+Auto-Installed: 1
+
+Package: libboost-thread1.62.0
+Architecture: armel
+Auto-Installed: 1
+
+Package: libatk1.0-data
+Architecture: armel
+Auto-Installed: 1
+
+Package: libharfbuzz0b
+Architecture: armel
+Auto-Installed: 1
+
+Package: ruby-test-unit
+Architecture: armel
+Auto-Installed: 1
+
+Package: libyaml-0-2
+Architecture: armel
+Auto-Installed: 1
+
+Package: libbluetooth3
+Architecture: armel
+Auto-Installed: 1
+
+Package: keyutils
+Architecture: armel
+Auto-Installed: 1
+
+Package: libwebsockets8
+Architecture: armel
+Auto-Installed: 1
+
+Package: python-gobject-2
+Architecture: armel
+Auto-Installed: 1
+
+Package: libcairo2
+Architecture: armel
+Auto-Installed: 1
+
+Package: libpython2.7-stdlib
+Architecture: armel
+Auto-Installed: 1
+
+Package: libboost-system1.62.0
+Architecture: armel
+Auto-Installed: 1
+
+Package: libpython3.5-minimal
+Architecture: armel
+Auto-Installed: 1
+
+Package: libavahi-client3
+Architecture: armel
+Auto-Installed: 1
+
+Package: libboost-python1.62.0
+Architecture: armel
+Auto-Installed: 1
+
+Package: libpango-1.0-0
+Architecture: armel
+Auto-Installed: 1
+
+Package: libtevent0
+Architecture: armel
+Auto-Installed: 1
+
+Package: libxcb-dri2-0
+Architecture: armel
+Auto-Installed: 1
+
+Package: rpcbind
+Architecture: armel
+Auto-Installed: 1
+
+Package: libxcb-dri3-0
+Architecture: armel
+Auto-Installed: 1
+
+Package: python-minimal
+Architecture: armel
+Auto-Installed: 1
+
+Package: libdconf1
+Architecture: armel
+Auto-Installed: 1
+
+Package: libnspr4
+Architecture: armel
+Auto-Installed: 1
+
+Package: libcurl3-gnutls
+Architecture: armel
+Auto-Installed: 1
+
+Package: libwayland-server0
+Architecture: armel
+Auto-Installed: 1
+
+Package: libxcb-sync1
+Architecture: armel
+Auto-Installed: 1
+
+Package: libdatrie1
+Architecture: armel
+Auto-Installed: 1
+
+Package: libnfsidmap2
+Architecture: armel
+Auto-Installed: 1
+
+Package: ruby-did-you-mean
+Architecture: armel
+Auto-Installed: 1
+
+Package: libwayland-cursor0
+Architecture: armel
+Auto-Installed: 1
+
+Package: liberror-perl
+Architecture: armel
+Auto-Installed: 1
+
+Package: ca-certificates-java
+Architecture: armel
+Auto-Installed: 1
+
+Package: libgif7
+Architecture: armel
+Auto-Installed: 1
+
+Package: libnss3
+Architecture: armel
+Auto-Installed: 1
+
+Package: java-common
+Architecture: armel
+Auto-Installed: 1
+
+Package: python3-protobuf
+Architecture: armel
+Auto-Installed: 1
+
+Package: libatomic1
+Architecture: armel
+Auto-Installed: 1
+
+Package: libprotobuf17
+Architecture: armel
+Auto-Installed: 1
+
+Package: libaprutil1
+Architecture: armel
+Auto-Installed: 1
+
+Package: libaprutil1-dbd-sqlite3
+Architecture: armel
+Auto-Installed: 1
+
+Package: ssl-cert
+Architecture: armel
+Auto-Installed: 1
+
+Package: apache2-data
+Architecture: armel
+Auto-Installed: 1
+
+Package: libapr1
+Architecture: armel
+Auto-Installed: 1
+
+Package: libaprutil1-ldap
+Architecture: armel
+Auto-Installed: 1
+
+Package: liblua5.2-0
+Architecture: armel
+Auto-Installed: 1
+
+Package: apache2-bin
+Architecture: armel
+Auto-Installed: 1
+
+Package: apache2-utils
+Architecture: armel
+Auto-Installed: 1
+
+Package: php7.0-cli
+Architecture: armel
+Auto-Installed: 1
+
+Package: php-common
+Architecture: armel
+Auto-Installed: 1
+
+Package: php7.0-opcache
+Architecture: armel
+Auto-Installed: 1
+
+Package: php7.0-common
+Architecture: armel
+Auto-Installed: 1
+
+Package: php7.0-json
+Architecture: armel
+Auto-Installed: 1
+
+Package: php7.0-readline
+Architecture: armel
+Auto-Installed: 1
+

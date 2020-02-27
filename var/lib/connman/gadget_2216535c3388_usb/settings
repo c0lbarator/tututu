@@ -1,0 +1,13 @@
+[gadget_2216535c3388_usb]
+Name=Wired
+Favorite=true
+AutoConnect=true
+Modified=2020-02-26T21:26:27.925725Z
+IPv4.method=manual
+IPv4.netmask_prefixlen=24
+IPv4.local_address=192.168.137.3
+IPv4.gateway=192.168.137.1
+IPv6.method=auto
+IPv6.privacy=disabled
+Nameservers=192.168.137.1;
+IPv6.DHCP.DUID=00010001254351672216535c3388

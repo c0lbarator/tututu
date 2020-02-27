@@ -1,0 +1,11 @@
+/.
+/lib
+/lib/udev
+/lib/udev/rules.d
+/lib/udev/rules.d/60-pixy.rules
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/pixy-rules
+/usr/share/doc/pixy-rules/changelog.gz
+/usr/share/doc/pixy-rules/copyright

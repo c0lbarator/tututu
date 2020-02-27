@@ -1,0 +1,12 @@
+/.
+/lib
+/lib/firmware
+/lib/firmware/ti-connectivity
+/lib/firmware/ti-connectivity/TIInit_6.2.31.bts
+/lib/firmware/ti-connectivity/TIInit_6.6.15.bts
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/firmware-ev3
+/usr/share/doc/firmware-ev3/changelog.gz
+/usr/share/doc/firmware-ev3/copyright

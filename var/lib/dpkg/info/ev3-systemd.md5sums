@@ -1,0 +1,9 @@
+58f65215df8439196802139495f16a44  lib/modules-load.d/ev3.conf
+c1e7965d2f3eac3c597014448a383aae  lib/systemd/system/ev3-bluetooth.service
+c46d8f9e6d7335470be8d0e464b4e5bd  lib/systemd/system/ev3-leds.service
+dd8579b11926fcf7861cdd97ecfce746  lib/systemd/system/ev3-uart@.service
+67b7018f148d34d533a6d751646ca1f5  lib/systemd/system/ev3-usb@.service
+e8a69ba3e43e90364b8c4690717f7d61  lib/udev/rules.d/60-ev3.rules
+57f66e3f8cfc90ceef9567f4afc1fba1  usr/share/doc/ev3-systemd/changelog.gz
+acff94666822f9c8244ca4433b5c6718  usr/share/doc/ev3-systemd/copyright
+754f23b557fa64a358a1e0d9663c3859  usr/share/ev3-systemd/ev3-usb.sh

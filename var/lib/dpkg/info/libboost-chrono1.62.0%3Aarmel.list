@@ -1,0 +1,13 @@
+/.
+/usr
+/usr/lib
+/usr/lib/arm-linux-gnueabi
+/usr/lib/arm-linux-gnueabi/libboost_chrono.so.1.62.0
+/usr/share
+/usr/share/doc
+/usr/share/doc/libboost-chrono1.62.0
+/usr/share/doc/libboost-chrono1.62.0/changelog.Debian.gz
+/usr/share/doc/libboost-chrono1.62.0/copyright
+/usr/share/lintian
+/usr/share/lintian/overrides
+/usr/share/lintian/overrides/libboost-chrono1.62.0

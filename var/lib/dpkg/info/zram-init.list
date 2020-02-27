@@ -1,0 +1,13 @@
+/.
+/lib
+/lib/systemd
+/lib/systemd/system
+/lib/systemd/system/zram_swap.service
+/usr
+/usr/sbin
+/usr/sbin/zram-init
+/usr/share
+/usr/share/doc
+/usr/share/doc/zram-init
+/usr/share/doc/zram-init/changelog.gz
+/usr/share/doc/zram-init/copyright

@@ -1,0 +1,17 @@
+/.
+/usr
+/usr/bin
+/usr/bin/conrun
+/usr/bin/conrun-kill
+/usr/bin/conrun-server
+/usr/share
+/usr/share/doc
+/usr/share/doc/console-runner
+/usr/share/doc/console-runner/changelog.gz
+/usr/share/doc/console-runner/copyright
+/usr/share/man
+/usr/share/man/man1
+/usr/share/man/man1/console-runner.1.gz
+/usr/share/man/man1/conrun-kill.1.gz
+/usr/share/man/man1/conrun-server.1.gz
+/usr/share/man/man1/conrun.1.gz

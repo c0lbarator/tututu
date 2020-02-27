@@ -1,0 +1,10 @@
+/.
+/usr
+/usr/bin
+/usr/bin/micropython
+/usr/bin/upip
+/usr/share
+/usr/share/doc
+/usr/share/doc/micropython
+/usr/share/doc/micropython/changelog.gz
+/usr/share/doc/micropython/copyright

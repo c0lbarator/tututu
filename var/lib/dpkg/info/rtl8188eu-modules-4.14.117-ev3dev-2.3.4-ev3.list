@@ -1,0 +1,14 @@
+/.
+/lib
+/lib/modules
+/lib/modules/4.14.117-ev3dev-2.3.4-ev3
+/lib/modules/4.14.117-ev3dev-2.3.4-ev3/drivers
+/lib/modules/4.14.117-ev3dev-2.3.4-ev3/drivers/net
+/lib/modules/4.14.117-ev3dev-2.3.4-ev3/drivers/net/wireless
+/lib/modules/4.14.117-ev3dev-2.3.4-ev3/drivers/net/wireless/8188eu.ko
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/rtl8188eu-modules-4.14.117-ev3dev-2.3.4-ev3
+/usr/share/doc/rtl8188eu-modules-4.14.117-ev3dev-2.3.4-ev3/changelog.gz
+/usr/share/doc/rtl8188eu-modules-4.14.117-ev3dev-2.3.4-ev3/copyright

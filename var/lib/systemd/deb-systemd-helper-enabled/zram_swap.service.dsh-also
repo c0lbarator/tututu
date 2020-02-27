@@ -1,0 +1,1 @@
+/etc/systemd/system/swap.target.wants/zram_swap.service

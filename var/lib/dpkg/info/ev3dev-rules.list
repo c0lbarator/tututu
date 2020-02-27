@@ -1,0 +1,11 @@
+/.
+/lib
+/lib/udev
+/lib/udev/rules.d
+/lib/udev/rules.d/60-ev3dev.rules
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/ev3dev-rules
+/usr/share/doc/ev3dev-rules/changelog.gz
+/usr/share/doc/ev3dev-rules/copyright

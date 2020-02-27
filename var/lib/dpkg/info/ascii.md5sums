@@ -1,0 +1,5 @@
+1ee82561b524bb871cb66cb7fb35a6de  usr/bin/ascii
+4d197070c0fade778b51129308fc4367  usr/share/doc/ascii/changelog.Debian.gz
+4cf1cde569e22235f36a4b46ad3b254b  usr/share/doc/ascii/copyright
+e670bf32b6d8d6b5d7003f1b542e1d54  usr/share/lintian/overrides/ascii
+58ed5a3579eaaf4937c8ac91902d04ad  usr/share/man/man1/ascii.1.gz

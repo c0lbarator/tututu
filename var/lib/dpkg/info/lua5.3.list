@@ -1,0 +1,14 @@
+/.
+/usr
+/usr/bin
+/usr/bin/lua5.3
+/usr/bin/luac5.3
+/usr/share
+/usr/share/doc
+/usr/share/doc/lua5.3
+/usr/share/doc/lua5.3/changelog.Debian.gz
+/usr/share/doc/lua5.3/copyright
+/usr/share/man
+/usr/share/man/man1
+/usr/share/man/man1/lua5.3.1.gz
+/usr/share/man/man1/luac5.3.1.gz

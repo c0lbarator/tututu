@@ -1,0 +1,4 @@
+/etc/dpkg/origins/default.ev3dev
+/etc/issue.ev3dev
+/etc/issue.net.ev3dev
+/etc/motd.ev3dev

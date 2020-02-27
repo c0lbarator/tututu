@@ -1,0 +1,9 @@
+/.
+/etc
+/etc/adduser.conf.ev3dev
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/ev3dev-adduser-config
+/usr/share/doc/ev3dev-adduser-config/copyright
+/usr/share/doc/ev3dev-adduser-config/changelog.gz

@@ -1,0 +1,6 @@
+96f0e3c32bd3fe1f1d30e8b6fbe1d34f  usr/bin/lua5.3
+3967a65366ac42e97be3e74fd86a9522  usr/bin/luac5.3
+4c4448d3944981e7d66ec114505b3bad  usr/share/doc/lua5.3/changelog.Debian.gz
+1d865ca5f7886f6afd780c2b5f931e7d  usr/share/doc/lua5.3/copyright
+7508205dee427e48043056c44815c3c5  usr/share/man/man1/lua5.3.1.gz
+015bf78b78328de63eb47f83f298fb73  usr/share/man/man1/luac5.3.1.gz

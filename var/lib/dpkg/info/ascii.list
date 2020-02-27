@@ -1,0 +1,15 @@
+/.
+/usr
+/usr/bin
+/usr/bin/ascii
+/usr/share
+/usr/share/lintian
+/usr/share/lintian/overrides
+/usr/share/lintian/overrides/ascii
+/usr/share/doc
+/usr/share/doc/ascii
+/usr/share/doc/ascii/changelog.Debian.gz
+/usr/share/doc/ascii/copyright
+/usr/share/man
+/usr/share/man/man1
+/usr/share/man/man1/ascii.1.gz

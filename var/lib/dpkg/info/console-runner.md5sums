@@ -1,0 +1,6 @@
+b62d5079ef760444363c3cb736fd5c92  usr/bin/conrun
+5b2bc0944191ebb830114fdbfc9696ae  usr/bin/conrun-kill
+0ebbf5f32fc1f8aefa77b2a4a421d60c  usr/bin/conrun-server
+41bddf9f04f413e225b7b4a85637d216  usr/share/doc/console-runner/changelog.gz
+821c8280c9910a6eb8ea08b438faeee5  usr/share/doc/console-runner/copyright
+117d08e5c3f8d92880361b5f377c0609  usr/share/man/man1/console-runner.1.gz

@@ -1,0 +1,485 @@
+/.
+/lib
+/lib/systemd
+/lib/systemd/system
+/lib/systemd/system/lms2012-compat-uart@.service
+/lib/systemd/system/lms2012-compat-usb-hid-gadget@.service
+/lib/udev
+/lib/udev/rules.d
+/lib/udev/rules.d/60-lms2012-compat-uart.rules
+/lib/udev/rules.d/60-lms2012-compat-usb-hid-gadget.rules
+/usr
+/usr/sbin
+/usr/sbin/lms2012
+/usr/share
+/usr/share/doc
+/usr/share/doc/lms2012-compat
+/usr/share/doc/lms2012-compat/changelog.gz
+/usr/share/doc/lms2012-compat/copyright
+/usr/share/lms2012-compat
+/usr/share/lms2012-compat/apps
+/usr/share/lms2012-compat/apps/Brick Datalog
+/usr/share/lms2012-compat/apps/Brick Datalog/144x82_POP4.rgf
+/usr/share/lms2012-compat/apps/Brick Datalog/Brick Datalog.rbf
+/usr/share/lms2012-compat/apps/Brick Datalog/GeneralAlarm.rsf
+/usr/share/lms2012-compat/apps/Brick Datalog/PE_input.rgf
+/usr/share/lms2012-compat/apps/Brick Datalog/PE_output.rgf
+/usr/share/lms2012-compat/apps/Brick Datalog/dlSetAccept.rgf
+/usr/share/lms2012-compat/apps/Brick Datalog/dlSetAcceptH.rgf
+/usr/share/lms2012-compat/apps/Brick Datalog/dl_GR0_1.rgf
+/usr/share/lms2012-compat/apps/Brick Datalog/dl_GR0_10.rgf
+/usr/share/lms2012-compat/apps/Brick Datalog/dl_GR0_100.rgf
+/usr/share/lms2012-compat/apps/Brick Datalog/dl_GR0_250.rgf
+/usr/share/lms2012-compat/apps/Brick Datalog/dl_GR0_8.rgf
+/usr/share/lms2012-compat/apps/Brick Datalog/dl_GR_TC.rgf
+/usr/share/lms2012-compat/apps/Brick Datalog/dl_GRc100.rgf
+/usr/share/lms2012-compat/apps/Brick Datalog/dl_GRc180.rgf
+/usr/share/lms2012-compat/apps/Brick Datalog/dl_GRc450.rgf
+/usr/share/lms2012-compat/apps/Brick Datalog/dl_Highrate.rgf
+/usr/share/lms2012-compat/apps/Brick Datalog/dl_NoDetails.rgf
+/usr/share/lms2012-compat/apps/Brick Datalog/dl_Prt1.rgf
+/usr/share/lms2012-compat/apps/Brick Datalog/dl_Prt2.rgf
+/usr/share/lms2012-compat/apps/Brick Datalog/dl_Prt3.rgf
+/usr/share/lms2012-compat/apps/Brick Datalog/dl_Prt4.rgf
+/usr/share/lms2012-compat/apps/Brick Datalog/dl_PrtA.rgf
+/usr/share/lms2012-compat/apps/Brick Datalog/dl_PrtB.rgf
+/usr/share/lms2012-compat/apps/Brick Datalog/dl_PrtC.rgf
+/usr/share/lms2012-compat/apps/Brick Datalog/dl_PrtD.rgf
+/usr/share/lms2012-compat/apps/Brick Datalog/dl_PrtDetault.rgf
+/usr/share/lms2012-compat/apps/Brick Datalog/dl_Prt_All.rgf
+/usr/share/lms2012-compat/apps/Brick Datalog/dl_Prt_Er.rgf
+/usr/share/lms2012-compat/apps/Brick Datalog/dl_Prt_Un.rgf
+/usr/share/lms2012-compat/apps/Brick Datalog/dl_Rec.rgf
+/usr/share/lms2012-compat/apps/Brick Datalog/dl_RecH.rgf
+/usr/share/lms2012-compat/apps/Brick Datalog/dl_Set.rgf
+/usr/share/lms2012-compat/apps/Brick Datalog/dl_SetH.rgf
+/usr/share/lms2012-compat/apps/Brick Datalog/dl_count.rgf
+/usr/share/lms2012-compat/apps/Brick Datalog/dl_mxave.rgf
+/usr/share/lms2012-compat/apps/Brick Datalog/icon.rgf
+/usr/share/lms2012-compat/apps/Brick Datalog/t010.rgf
+/usr/share/lms2012-compat/apps/Brick Datalog/t020.rgf
+/usr/share/lms2012-compat/apps/Brick Datalog/t030.rgf
+/usr/share/lms2012-compat/apps/Brick Datalog/t040.rgf
+/usr/share/lms2012-compat/apps/Brick Datalog/t050.rgf
+/usr/share/lms2012-compat/apps/Brick Datalog/t060.rgf
+/usr/share/lms2012-compat/apps/Brick Datalog/t061.rgf
+/usr/share/lms2012-compat/apps/Brick Datalog/t070.rgf
+/usr/share/lms2012-compat/apps/Brick Datalog/t071.rgf
+/usr/share/lms2012-compat/apps/Brick Datalog/t080.rgf
+/usr/share/lms2012-compat/apps/Brick Datalog/t081.rgf
+/usr/share/lms2012-compat/apps/Brick Datalog/t160.rgf
+/usr/share/lms2012-compat/apps/Brick Datalog/t290.rgf
+/usr/share/lms2012-compat/apps/Brick Datalog/t291.rgf
+/usr/share/lms2012-compat/apps/Brick Datalog/t292.rgf
+/usr/share/lms2012-compat/apps/Brick Datalog/t300.rgf
+/usr/share/lms2012-compat/apps/Brick Datalog/t320.rgf
+/usr/share/lms2012-compat/apps/Brick Datalog/t321.rgf
+/usr/share/lms2012-compat/apps/Brick Datalog/t330.rgf
+/usr/share/lms2012-compat/apps/Brick Datalog/t331.rgf
+/usr/share/lms2012-compat/apps/Brick Datalog/t332.rgf
+/usr/share/lms2012-compat/apps/Brick Datalog/tdef.rgf
+/usr/share/lms2012-compat/apps/Brick Program
+/usr/share/lms2012-compat/apps/Brick Program/144x116_POP6.rgf
+/usr/share/lms2012-compat/apps/Brick Program/A_BLit.rgf
+/usr/share/lms2012-compat/apps/Brick Program/A_BLitP1.rgf
+/usr/share/lms2012-compat/apps/Brick Program/A_BLitP2.rgf
+/usr/share/lms2012-compat/apps/Brick Program/A_BLitP3.rgf
+/usr/share/lms2012-compat/apps/Brick Program/A_BLitP4.rgf
+/usr/share/lms2012-compat/apps/Brick Program/A_BLitP5.rgf
+/usr/share/lms2012-compat/apps/Brick Program/A_BLitP6.rgf
+/usr/share/lms2012-compat/apps/Brick Program/A_BLitP7.rgf
+/usr/share/lms2012-compat/apps/Brick Program/A_Disp.rgf
+/usr/share/lms2012-compat/apps/Brick Program/A_Lmot.rgf
+/usr/share/lms2012-compat/apps/Brick Program/A_LoopP1.rgf
+/usr/share/lms2012-compat/apps/Brick Program/A_LoopP2.rgf
+/usr/share/lms2012-compat/apps/Brick Program/A_LoopP3.rgf
+/usr/share/lms2012-compat/apps/Brick Program/A_LoopP4.rgf
+/usr/share/lms2012-compat/apps/Brick Program/A_LoopP5.rgf
+/usr/share/lms2012-compat/apps/Brick Program/A_LoopP6.rgf
+/usr/share/lms2012-compat/apps/Brick Program/A_LoopP7.rgf
+/usr/share/lms2012-compat/apps/Brick Program/A_Mmot.rgf
+/usr/share/lms2012-compat/apps/Brick Program/A_Move.rgf
+/usr/share/lms2012-compat/apps/Brick Program/A_MoveP1.rgf
+/usr/share/lms2012-compat/apps/Brick Program/A_MoveP2.rgf
+/usr/share/lms2012-compat/apps/Brick Program/A_MoveP3.rgf
+/usr/share/lms2012-compat/apps/Brick Program/A_MoveP4.rgf
+/usr/share/lms2012-compat/apps/Brick Program/A_MoveP5.rgf
+/usr/share/lms2012-compat/apps/Brick Program/A_MoveP6.rgf
+/usr/share/lms2012-compat/apps/Brick Program/A_MoveP7.rgf
+/usr/share/lms2012-compat/apps/Brick Program/A_MoveP8.rgf
+/usr/share/lms2012-compat/apps/Brick Program/A_MoveP9.rgf
+/usr/share/lms2012-compat/apps/Brick Program/A_Snd.rgf
+/usr/share/lms2012-compat/apps/Brick Program/A_motP1.rgf
+/usr/share/lms2012-compat/apps/Brick Program/A_motP2.rgf
+/usr/share/lms2012-compat/apps/Brick Program/A_motP3.rgf
+/usr/share/lms2012-compat/apps/Brick Program/A_motP4.rgf
+/usr/share/lms2012-compat/apps/Brick Program/A_motP5.rgf
+/usr/share/lms2012-compat/apps/Brick Program/A_motP6.rgf
+/usr/share/lms2012-compat/apps/Brick Program/A_motP7.rgf
+/usr/share/lms2012-compat/apps/Brick Program/A_motP8.rgf
+/usr/share/lms2012-compat/apps/Brick Program/A_motP9.rgf
+/usr/share/lms2012-compat/apps/Brick Program/A_numP01.rgf
+/usr/share/lms2012-compat/apps/Brick Program/A_numP02.rgf
+/usr/share/lms2012-compat/apps/Brick Program/A_numP03.rgf
+/usr/share/lms2012-compat/apps/Brick Program/A_numP04.rgf
+/usr/share/lms2012-compat/apps/Brick Program/A_numP05.rgf
+/usr/share/lms2012-compat/apps/Brick Program/A_numP06.rgf
+/usr/share/lms2012-compat/apps/Brick Program/A_numP07.rgf
+/usr/share/lms2012-compat/apps/Brick Program/A_numP08.rgf
+/usr/share/lms2012-compat/apps/Brick Program/A_numP09.rgf
+/usr/share/lms2012-compat/apps/Brick Program/A_numP10.rgf
+/usr/share/lms2012-compat/apps/Brick Program/A_numP11.rgf
+/usr/share/lms2012-compat/apps/Brick Program/A_numP12.rgf
+/usr/share/lms2012-compat/apps/Brick Program/A_numP13.rgf
+/usr/share/lms2012-compat/apps/Brick Program/BLKh.rgf
+/usr/share/lms2012-compat/apps/Brick Program/BLKn.rgf
+/usr/share/lms2012-compat/apps/Brick Program/BLKs.rgf
+/usr/share/lms2012-compat/apps/Brick Program/BlockAdd.rgf
+/usr/share/lms2012-compat/apps/Brick Program/Blocklink.rgf
+/usr/share/lms2012-compat/apps/Brick Program/Brick Program.rbf
+/usr/share/lms2012-compat/apps/Brick Program/GeneralAlarm.rsf
+/usr/share/lms2012-compat/apps/Brick Program/LIBH1.rgf
+/usr/share/lms2012-compat/apps/Brick Program/LIBH2.rgf
+/usr/share/lms2012-compat/apps/Brick Program/LibToProg.rgf
+/usr/share/lms2012-compat/apps/Brick Program/OnBrickImage01.rgf
+/usr/share/lms2012-compat/apps/Brick Program/OnBrickImage02.rgf
+/usr/share/lms2012-compat/apps/Brick Program/OnBrickImage03.rgf
+/usr/share/lms2012-compat/apps/Brick Program/OnBrickImage04.rgf
+/usr/share/lms2012-compat/apps/Brick Program/OnBrickImage05.rgf
+/usr/share/lms2012-compat/apps/Brick Program/OnBrickImage06.rgf
+/usr/share/lms2012-compat/apps/Brick Program/OnBrickImage07.rgf
+/usr/share/lms2012-compat/apps/Brick Program/OnBrickImage08.rgf
+/usr/share/lms2012-compat/apps/Brick Program/OnBrickImage09.rgf
+/usr/share/lms2012-compat/apps/Brick Program/OnBrickImage10.rgf
+/usr/share/lms2012-compat/apps/Brick Program/OnBrickImage11.rgf
+/usr/share/lms2012-compat/apps/Brick Program/OnBrickImage12.rgf
+/usr/share/lms2012-compat/apps/Brick Program/OnBrickSound01.rsf
+/usr/share/lms2012-compat/apps/Brick Program/OnBrickSound02.rsf
+/usr/share/lms2012-compat/apps/Brick Program/OnBrickSound03.rsf
+/usr/share/lms2012-compat/apps/Brick Program/OnBrickSound04.rsf
+/usr/share/lms2012-compat/apps/Brick Program/OnBrickSound05.rsf
+/usr/share/lms2012-compat/apps/Brick Program/OnBrickSound06.rsf
+/usr/share/lms2012-compat/apps/Brick Program/OnBrickSound07.rsf
+/usr/share/lms2012-compat/apps/Brick Program/OnBrickSound08.rsf
+/usr/share/lms2012-compat/apps/Brick Program/OnBrickSound09.rsf
+/usr/share/lms2012-compat/apps/Brick Program/OnBrickSound10.rsf
+/usr/share/lms2012-compat/apps/Brick Program/OnBrickSound11.rsf
+/usr/share/lms2012-compat/apps/Brick Program/OnBrickSound12.rsf
+/usr/share/lms2012-compat/apps/Brick Program/Ph_1.rgf
+/usr/share/lms2012-compat/apps/Brick Program/Ph_2.rgf
+/usr/share/lms2012-compat/apps/Brick Program/Ph_3.rgf
+/usr/share/lms2012-compat/apps/Brick Program/Ph_4.rgf
+/usr/share/lms2012-compat/apps/Brick Program/Ph_a.rgf
+/usr/share/lms2012-compat/apps/Brick Program/Ph_b.rgf
+/usr/share/lms2012-compat/apps/Brick Program/Ph_bc.rgf
+/usr/share/lms2012-compat/apps/Brick Program/Ph_c.rgf
+/usr/share/lms2012-compat/apps/Brick Program/Ph_d.rgf
+/usr/share/lms2012-compat/apps/Brick Program/Pn_1.rgf
+/usr/share/lms2012-compat/apps/Brick Program/Pn_2.rgf
+/usr/share/lms2012-compat/apps/Brick Program/Pn_3.rgf
+/usr/share/lms2012-compat/apps/Brick Program/Pn_4.rgf
+/usr/share/lms2012-compat/apps/Brick Program/Pn_a.rgf
+/usr/share/lms2012-compat/apps/Brick Program/Pn_b.rgf
+/usr/share/lms2012-compat/apps/Brick Program/Pn_bc.rgf
+/usr/share/lms2012-compat/apps/Brick Program/Pn_c.rgf
+/usr/share/lms2012-compat/apps/Brick Program/Pn_d.rgf
+/usr/share/lms2012-compat/apps/Brick Program/PrgOpen.rgf
+/usr/share/lms2012-compat/apps/Brick Program/PrgOpenH.rgf
+/usr/share/lms2012-compat/apps/Brick Program/PrgSave.rgf
+/usr/share/lms2012-compat/apps/Brick Program/PrgSaveH.rgf
+/usr/share/lms2012-compat/apps/Brick Program/ProgNav.rgf
+/usr/share/lms2012-compat/apps/Brick Program/ProgNavdot.rgf
+/usr/share/lms2012-compat/apps/Brick Program/Ps_1.rgf
+/usr/share/lms2012-compat/apps/Brick Program/Ps_2.rgf
+/usr/share/lms2012-compat/apps/Brick Program/Ps_3.rgf
+/usr/share/lms2012-compat/apps/Brick Program/Ps_4.rgf
+/usr/share/lms2012-compat/apps/Brick Program/Ps_a.rgf
+/usr/share/lms2012-compat/apps/Brick Program/Ps_b.rgf
+/usr/share/lms2012-compat/apps/Brick Program/Ps_bc.rgf
+/usr/share/lms2012-compat/apps/Brick Program/Ps_c.rgf
+/usr/share/lms2012-compat/apps/Brick Program/Ps_d.rgf
+/usr/share/lms2012-compat/apps/Brick Program/RepBlkh.rgf
+/usr/share/lms2012-compat/apps/Brick Program/RepBlkn.rgf
+/usr/share/lms2012-compat/apps/Brick Program/RepBlks.rgf
+/usr/share/lms2012-compat/apps/Brick Program/StartBLKn.rgf
+/usr/share/lms2012-compat/apps/Brick Program/StartBLKs.rgf
+/usr/share/lms2012-compat/apps/Brick Program/ToLib.rgf
+/usr/share/lms2012-compat/apps/Brick Program/W_Touch.rgf
+/usr/share/lms2012-compat/apps/Brick Program/W_TouchP1.rgf
+/usr/share/lms2012-compat/apps/Brick Program/W_TouchP2.rgf
+/usr/share/lms2012-compat/apps/Brick Program/W_TouchP3.rgf
+/usr/share/lms2012-compat/apps/Brick Program/W_angP01.rgf
+/usr/share/lms2012-compat/apps/Brick Program/W_angP02.rgf
+/usr/share/lms2012-compat/apps/Brick Program/W_angP03.rgf
+/usr/share/lms2012-compat/apps/Brick Program/W_angP04.rgf
+/usr/share/lms2012-compat/apps/Brick Program/W_angP05.rgf
+/usr/share/lms2012-compat/apps/Brick Program/W_angP06.rgf
+/usr/share/lms2012-compat/apps/Brick Program/W_angP07.rgf
+/usr/share/lms2012-compat/apps/Brick Program/W_angP08.rgf
+/usr/share/lms2012-compat/apps/Brick Program/W_angP09.rgf
+/usr/share/lms2012-compat/apps/Brick Program/W_angP10.rgf
+/usr/share/lms2012-compat/apps/Brick Program/W_angP11.rgf
+/usr/share/lms2012-compat/apps/Brick Program/W_angP12.rgf
+/usr/share/lms2012-compat/apps/Brick Program/W_bbut.rgf
+/usr/share/lms2012-compat/apps/Brick Program/W_bbutP1.rgf
+/usr/share/lms2012-compat/apps/Brick Program/W_bbutP2.rgf
+/usr/share/lms2012-compat/apps/Brick Program/W_bbutP3.rgf
+/usr/share/lms2012-compat/apps/Brick Program/W_bbutP4.rgf
+/usr/share/lms2012-compat/apps/Brick Program/W_bbutP5.rgf
+/usr/share/lms2012-compat/apps/Brick Program/W_colcol.rgf
+/usr/share/lms2012-compat/apps/Brick Program/W_colcolP1.rgf
+/usr/share/lms2012-compat/apps/Brick Program/W_colcolP2.rgf
+/usr/share/lms2012-compat/apps/Brick Program/W_colcolP3.rgf
+/usr/share/lms2012-compat/apps/Brick Program/W_colcolP4.rgf
+/usr/share/lms2012-compat/apps/Brick Program/W_colcolP5.rgf
+/usr/share/lms2012-compat/apps/Brick Program/W_colcolP6.rgf
+/usr/share/lms2012-compat/apps/Brick Program/W_colcolP7.rgf
+/usr/share/lms2012-compat/apps/Brick Program/W_colcolP8.rgf
+/usr/share/lms2012-compat/apps/Brick Program/W_colref.rgf
+/usr/share/lms2012-compat/apps/Brick Program/W_colrefP01.rgf
+/usr/share/lms2012-compat/apps/Brick Program/W_colrefP02.rgf
+/usr/share/lms2012-compat/apps/Brick Program/W_colrefP03.rgf
+/usr/share/lms2012-compat/apps/Brick Program/W_colrefP04.rgf
+/usr/share/lms2012-compat/apps/Brick Program/W_colrefP05.rgf
+/usr/share/lms2012-compat/apps/Brick Program/W_colrefP06.rgf
+/usr/share/lms2012-compat/apps/Brick Program/W_colrefP07.rgf
+/usr/share/lms2012-compat/apps/Brick Program/W_colrefP08.rgf
+/usr/share/lms2012-compat/apps/Brick Program/W_colrefP09.rgf
+/usr/share/lms2012-compat/apps/Brick Program/W_colrefP10.rgf
+/usr/share/lms2012-compat/apps/Brick Program/W_colrefP11.rgf
+/usr/share/lms2012-compat/apps/Brick Program/W_colrefP12.rgf
+/usr/share/lms2012-compat/apps/Brick Program/W_colrefP13.rgf
+/usr/share/lms2012-compat/apps/Brick Program/W_colrefP14.rgf
+/usr/share/lms2012-compat/apps/Brick Program/W_colrefP15.rgf
+/usr/share/lms2012-compat/apps/Brick Program/W_colrefP16.rgf
+/usr/share/lms2012-compat/apps/Brick Program/W_gyro.rgf
+/usr/share/lms2012-compat/apps/Brick Program/W_irprox.rgf
+/usr/share/lms2012-compat/apps/Brick Program/W_irproxP01.rgf
+/usr/share/lms2012-compat/apps/Brick Program/W_irproxP02.rgf
+/usr/share/lms2012-compat/apps/Brick Program/W_irproxP03.rgf
+/usr/share/lms2012-compat/apps/Brick Program/W_irproxP04.rgf
+/usr/share/lms2012-compat/apps/Brick Program/W_irproxP05.rgf
+/usr/share/lms2012-compat/apps/Brick Program/W_irproxP06.rgf
+/usr/share/lms2012-compat/apps/Brick Program/W_irproxP07.rgf
+/usr/share/lms2012-compat/apps/Brick Program/W_irproxP08.rgf
+/usr/share/lms2012-compat/apps/Brick Program/W_irrem.rgf
+/usr/share/lms2012-compat/apps/Brick Program/W_irremP01.rgf
+/usr/share/lms2012-compat/apps/Brick Program/W_irremP02.rgf
+/usr/share/lms2012-compat/apps/Brick Program/W_irremP03.rgf
+/usr/share/lms2012-compat/apps/Brick Program/W_irremP04.rgf
+/usr/share/lms2012-compat/apps/Brick Program/W_irremP05.rgf
+/usr/share/lms2012-compat/apps/Brick Program/W_irremP06.rgf
+/usr/share/lms2012-compat/apps/Brick Program/W_mmot.rgf
+/usr/share/lms2012-compat/apps/Brick Program/W_temp.rgf
+/usr/share/lms2012-compat/apps/Brick Program/W_tempP01.rgf
+/usr/share/lms2012-compat/apps/Brick Program/W_tempP02.rgf
+/usr/share/lms2012-compat/apps/Brick Program/W_tempP03.rgf
+/usr/share/lms2012-compat/apps/Brick Program/W_tempP04.rgf
+/usr/share/lms2012-compat/apps/Brick Program/W_tempP05.rgf
+/usr/share/lms2012-compat/apps/Brick Program/W_tempP06.rgf
+/usr/share/lms2012-compat/apps/Brick Program/W_tempP07.rgf
+/usr/share/lms2012-compat/apps/Brick Program/W_tempP08.rgf
+/usr/share/lms2012-compat/apps/Brick Program/W_tempP09.rgf
+/usr/share/lms2012-compat/apps/Brick Program/W_tempP10.rgf
+/usr/share/lms2012-compat/apps/Brick Program/W_tempP11.rgf
+/usr/share/lms2012-compat/apps/Brick Program/W_tempP12.rgf
+/usr/share/lms2012-compat/apps/Brick Program/W_tempP13.rgf
+/usr/share/lms2012-compat/apps/Brick Program/W_tempP14.rgf
+/usr/share/lms2012-compat/apps/Brick Program/W_tempP15.rgf
+/usr/share/lms2012-compat/apps/Brick Program/W_tempP16.rgf
+/usr/share/lms2012-compat/apps/Brick Program/W_time.rgf
+/usr/share/lms2012-compat/apps/Brick Program/W_timeP1.rgf
+/usr/share/lms2012-compat/apps/Brick Program/W_timeP2.rgf
+/usr/share/lms2012-compat/apps/Brick Program/W_timeP3.rgf
+/usr/share/lms2012-compat/apps/Brick Program/W_timeP4.rgf
+/usr/share/lms2012-compat/apps/Brick Program/W_timeP5.rgf
+/usr/share/lms2012-compat/apps/Brick Program/W_timeP6.rgf
+/usr/share/lms2012-compat/apps/Brick Program/W_timeP7.rgf
+/usr/share/lms2012-compat/apps/Brick Program/W_timeP8.rgf
+/usr/share/lms2012-compat/apps/Brick Program/W_us.rgf
+/usr/share/lms2012-compat/apps/Brick Program/W_usP01.rgf
+/usr/share/lms2012-compat/apps/Brick Program/W_usP02.rgf
+/usr/share/lms2012-compat/apps/Brick Program/W_usP03.rgf
+/usr/share/lms2012-compat/apps/Brick Program/W_usP04.rgf
+/usr/share/lms2012-compat/apps/Brick Program/W_usP05.rgf
+/usr/share/lms2012-compat/apps/Brick Program/W_usP06.rgf
+/usr/share/lms2012-compat/apps/Brick Program/W_usP07.rgf
+/usr/share/lms2012-compat/apps/Brick Program/W_usP08.rgf
+/usr/share/lms2012-compat/apps/Brick Program/W_usP09.rgf
+/usr/share/lms2012-compat/apps/Brick Program/W_usP10.rgf
+/usr/share/lms2012-compat/apps/Brick Program/W_usP11.rgf
+/usr/share/lms2012-compat/apps/Brick Program/W_usP12.rgf
+/usr/share/lms2012-compat/apps/Brick Program/W_usP13.rgf
+/usr/share/lms2012-compat/apps/Brick Program/W_usP14.rgf
+/usr/share/lms2012-compat/apps/Brick Program/W_usP15.rgf
+/usr/share/lms2012-compat/apps/Brick Program/W_usP16.rgf
+/usr/share/lms2012-compat/apps/Brick Program/block_bin.rgf
+/usr/share/lms2012-compat/apps/Brick Program/icon.rgf
+/usr/share/lms2012-compat/apps/Brick Program/template.rbf
+/usr/share/lms2012-compat/apps/IR Control
+/usr/share/lms2012-compat/apps/IR Control/IR Control.rbf
+/usr/share/lms2012-compat/apps/IR Control/IRCtl12.rgf
+/usr/share/lms2012-compat/apps/IR Control/IRCtl34.rgf
+/usr/share/lms2012-compat/apps/IR Control/icon.rgf
+/usr/share/lms2012-compat/apps/Motor Control
+/usr/share/lms2012-compat/apps/Motor Control/Motor Control.rbf
+/usr/share/lms2012-compat/apps/Motor Control/MotorCtlAD.rgf
+/usr/share/lms2012-compat/apps/Motor Control/MotorCtlBC.rgf
+/usr/share/lms2012-compat/apps/Motor Control/icon.rgf
+/usr/share/lms2012-compat/apps/Port View
+/usr/share/lms2012-compat/apps/Port View/PE_input.rgf
+/usr/share/lms2012-compat/apps/Port View/PE_output.rgf
+/usr/share/lms2012-compat/apps/Port View/Port View.rbf
+/usr/share/lms2012-compat/apps/Port View/ViewBot.rgf
+/usr/share/lms2012-compat/apps/Port View/ViewCore.rgf
+/usr/share/lms2012-compat/apps/Port View/ViewP1.rgf
+/usr/share/lms2012-compat/apps/Port View/ViewP2.rgf
+/usr/share/lms2012-compat/apps/Port View/ViewP3.rgf
+/usr/share/lms2012-compat/apps/Port View/ViewP4.rgf
+/usr/share/lms2012-compat/apps/Port View/ViewPA.rgf
+/usr/share/lms2012-compat/apps/Port View/ViewPB.rgf
+/usr/share/lms2012-compat/apps/Port View/ViewPC.rgf
+/usr/share/lms2012-compat/apps/Port View/ViewPD.rgf
+/usr/share/lms2012-compat/apps/Port View/ViewTop.rgf
+/usr/share/lms2012-compat/apps/Port View/icon.rgf
+/usr/share/lms2012-compat/apps/Port View/t010.rgf
+/usr/share/lms2012-compat/apps/Port View/t020.rgf
+/usr/share/lms2012-compat/apps/Port View/t030.rgf
+/usr/share/lms2012-compat/apps/Port View/t040.rgf
+/usr/share/lms2012-compat/apps/Port View/t050.rgf
+/usr/share/lms2012-compat/apps/Port View/t060.rgf
+/usr/share/lms2012-compat/apps/Port View/t061.rgf
+/usr/share/lms2012-compat/apps/Port View/t070.rgf
+/usr/share/lms2012-compat/apps/Port View/t071.rgf
+/usr/share/lms2012-compat/apps/Port View/t080.rgf
+/usr/share/lms2012-compat/apps/Port View/t081.rgf
+/usr/share/lms2012-compat/apps/Port View/t160.rgf
+/usr/share/lms2012-compat/apps/Port View/t290.rgf
+/usr/share/lms2012-compat/apps/Port View/t291.rgf
+/usr/share/lms2012-compat/apps/Port View/t292.rgf
+/usr/share/lms2012-compat/apps/Port View/t300.rgf
+/usr/share/lms2012-compat/apps/Port View/t320.rgf
+/usr/share/lms2012-compat/apps/Port View/t321.rgf
+/usr/share/lms2012-compat/apps/Port View/t330.rgf
+/usr/share/lms2012-compat/apps/Port View/t331.rgf
+/usr/share/lms2012-compat/apps/Port View/t332.rgf
+/usr/share/lms2012-compat/apps/Port View/tdef.rgf
+/usr/share/lms2012-compat/prjs
+/usr/share/lms2012-compat/prjs/BrkProg_SAVE
+/usr/share/lms2012-compat/prjs/BrkProg_SAVE/Demo.rpf
+/usr/share/lms2012-compat/prjs/Demo
+/usr/share/lms2012-compat/prjs/Demo/Demo.rbf
+/usr/share/lms2012-compat/prjs/SelfTest
+/usr/share/lms2012-compat/prjs/SelfTest/Run.rbf
+/usr/share/lms2012-compat/prjs/SelfTest/Test0101.rbf
+/usr/share/lms2012-compat/prjs/SelfTest/Test0102.rbf
+/usr/share/lms2012-compat/prjs/SelfTest/Test0103.rbf
+/usr/share/lms2012-compat/prjs/SelfTest/Test0104.rbf
+/usr/share/lms2012-compat/prjs/SelfTest/Test0105.rbf
+/usr/share/lms2012-compat/prjs/SelfTest/Test0106.rbf
+/usr/share/lms2012-compat/prjs/SelfTest/Test0107.rbf
+/usr/share/lms2012-compat/prjs/SelfTest/Test0108.rbf
+/usr/share/lms2012-compat/prjs/SelfTest/Test0109.rbf
+/usr/share/lms2012-compat/prjs/SelfTest/Test0110.rbf
+/usr/share/lms2012-compat/prjs/SelfTest/Test0201.rbf
+/usr/share/lms2012-compat/prjs/SelfTest/Test0202.rbf
+/usr/share/lms2012-compat/prjs/SelfTest/TestPrg1.rbf
+/usr/share/lms2012-compat/prjs/SelfTest/TestPrg2.rbf
+/usr/share/lms2012-compat/prjs/TEST
+/usr/share/lms2012-compat/prjs/TEST/Change Name.rbf
+/usr/share/lms2012-compat/prjs/TEST/Debug.rbf
+/usr/share/lms2012-compat/prjs/TEST/Display.rbf
+/usr/share/lms2012-compat/prjs/TEST/Leds.rbf
+/usr/share/lms2012-compat/prjs/TEST/Motors.rbf
+/usr/share/lms2012-compat/prjs/TEST/NoDebug.rbf
+/usr/share/lms2012-compat/prjs/TEST/Performance.rbf
+/usr/share/lms2012-compat/prjs/TEST/Power.rbf
+/usr/share/lms2012-compat/prjs/TEST/SDCard.rbf
+/usr/share/lms2012-compat/prjs/TEST/Sensors.rbf
+/usr/share/lms2012-compat/prjs/TEST/Sound.rbf
+/usr/share/lms2012-compat/prjs/TEST/Test.rsf
+/usr/share/lms2012-compat/prjs/TEST/USlevel.rbf
+/usr/share/lms2012-compat/prjs/TEST/UnlockDatalog.rbf
+/usr/share/lms2012-compat/scripts
+/usr/share/lms2012-compat/scripts/install-to-working-directory.sh
+/usr/share/lms2012-compat/scripts/usb-hid-gadget.sh
+/usr/share/lms2012-compat/sys
+/usr/share/lms2012-compat/sys/settings
+/usr/share/lms2012-compat/sys/settings/typedata.rcf
+/usr/share/lms2012-compat/sys/settings/typedata50.rcf
+/usr/share/lms2012-compat/sys/tst
+/usr/share/lms2012-compat/sys/tst/Performance.rbf
+/usr/share/lms2012-compat/sys/tst/si.rbf
+/usr/share/lms2012-compat/sys/tst/tst.rbf
+/usr/share/lms2012-compat/sys/tst/tstiic.rbf
+/usr/share/lms2012-compat/sys/tst/tstlog.rbf
+/usr/share/lms2012-compat/sys/tst/tstmath.rbf
+/usr/share/lms2012-compat/sys/tst/tststr.rbf
+/usr/share/lms2012-compat/sys/tst/us.rbf
+/usr/share/lms2012-compat/sys/ui
+/usr/share/lms2012-compat/sys/ui/144x65_POP3.rgf
+/usr/share/lms2012-compat/sys/ui/144x82_POP4.rgf
+/usr/share/lms2012-compat/sys/ui/Ani1x.rgf
+/usr/share/lms2012-compat/sys/ui/Click.rsf
+/usr/share/lms2012-compat/sys/ui/DownloadSuccess.rsf
+/usr/share/lms2012-compat/sys/ui/GeneralAlarm.rsf
+/usr/share/lms2012-compat/sys/ui/OverpowerAlert.rsf
+/usr/share/lms2012-compat/sys/ui/PowerDown.rsf
+/usr/share/lms2012-compat/sys/ui/Startup.rsf
+/usr/share/lms2012-compat/sys/ui/apps_screen.rgf
+/usr/share/lms2012-compat/sys/ui/file_screen.rgf
+/usr/share/lms2012-compat/sys/ui/mindstorms.rgf
+/usr/share/lms2012-compat/sys/ui/playrecent_screen.rgf
+/usr/share/lms2012-compat/sys/ui/screen.rgf
+/usr/share/lms2012-compat/sys/ui/settings_screen.rgf
+/usr/share/lms2012-compat/sys/ui/ui.rbf
+/usr/share/lms2012-compat/tools
+/usr/share/lms2012-compat/tools/Bluetooth
+/usr/share/lms2012-compat/tools/Bluetooth/144x116_POP6.rgf
+/usr/share/lms2012-compat/tools/Bluetooth/144x48_POP2.rgf
+/usr/share/lms2012-compat/tools/Bluetooth/144x65_POP3.rgf
+/usr/share/lms2012-compat/tools/Bluetooth/144x82_POP4.rgf
+/usr/share/lms2012-compat/tools/Bluetooth/144x99_POP5.rgf
+/usr/share/lms2012-compat/tools/Bluetooth/Bluetooth.rbf
+/usr/share/lms2012-compat/tools/Bluetooth/Connect.rsf
+/usr/share/lms2012-compat/tools/Bluetooth/GeneralAlarm.rsf
+/usr/share/lms2012-compat/tools/Bluetooth/icon.rgf
+/usr/share/lms2012-compat/tools/Bluetooth/mode2.rgf
+/usr/share/lms2012-compat/tools/Brick Info
+/usr/share/lms2012-compat/tools/Brick Info/144x116_POP6.rgf
+/usr/share/lms2012-compat/tools/Brick Info/Brick Info.rbf
+/usr/share/lms2012-compat/tools/Brick Info/icon.rgf
+/usr/share/lms2012-compat/tools/Brick Name
+/usr/share/lms2012-compat/tools/Brick Name/Brick Name.rbf
+/usr/share/lms2012-compat/tools/Brick Name/icon.rgf
+/usr/share/lms2012-compat/tools/Debug
+/usr/share/lms2012-compat/tools/Debug/Debug.rbf
+/usr/share/lms2012-compat/tools/Debug/icon.rgf
+/usr/share/lms2012-compat/tools/Sleep
+/usr/share/lms2012-compat/tools/Sleep/144x32_POP1.rgf
+/usr/share/lms2012-compat/tools/Sleep/Sleep.rbf
+/usr/share/lms2012-compat/tools/Sleep/icon.rgf
+/usr/share/lms2012-compat/tools/Test
+/usr/share/lms2012-compat/tools/Test/Test.rbf
+/usr/share/lms2012-compat/tools/Test/Test.rsf
+/usr/share/lms2012-compat/tools/Test/icon.rgf
+/usr/share/lms2012-compat/tools/Test/pop3.rgf
+/usr/share/lms2012-compat/tools/Test/pop6.rgf
+/usr/share/lms2012-compat/tools/Volume
+/usr/share/lms2012-compat/tools/Volume/144x32_POP1.rgf
+/usr/share/lms2012-compat/tools/Volume/Volume.rbf
+/usr/share/lms2012-compat/tools/Volume/icon.rgf
+/usr/share/lms2012-compat/tools/WiFi
+/usr/share/lms2012-compat/tools/WiFi/144x116_POP6.rgf
+/usr/share/lms2012-compat/tools/WiFi/144x48_POP2.rgf
+/usr/share/lms2012-compat/tools/WiFi/144x65_POP3.rgf
+/usr/share/lms2012-compat/tools/WiFi/144x82_POP4.rgf
+/usr/share/lms2012-compat/tools/WiFi/144x99_POP5.rgf
+/usr/share/lms2012-compat/tools/WiFi/Connect.rsf
+/usr/share/lms2012-compat/tools/WiFi/GeneralAlarm.rsf
+/usr/share/lms2012-compat/tools/WiFi/WiFi.rbf
+/usr/share/lms2012-compat/tools/WiFi/icon.rgf
+/usr/share/man
+/usr/share/man/man8
+/usr/share/man/man8/lms2012-compat.8.gz
+/usr/share/man/man8/lms2012.8.gz

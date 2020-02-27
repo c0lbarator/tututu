@@ -1,0 +1,445 @@
+af24a07088b88cddb1b80850d3c4c5a6  lib/systemd/system/lms2012-compat-uart@.service
+1fd6d3eb09cdfe7d3201bf93f3670ec4  lib/systemd/system/lms2012-compat-usb-hid-gadget@.service
+99fdbd215207bcbf3631b4306f6df774  lib/udev/rules.d/60-lms2012-compat-uart.rules
+b067ce1e30e43d82a6a1a78c802109bb  lib/udev/rules.d/60-lms2012-compat-usb-hid-gadget.rules
+5d831d8b13e0bdc979f2482ebc029031  usr/sbin/lms2012
+8eb4091a78afc8ab96bb34cd6b1f2fcd  usr/share/doc/lms2012-compat/changelog.gz
+ff363535ef7fa40398ef3aa8e61f6a42  usr/share/doc/lms2012-compat/copyright
+7e255363590442e339f93cbdaf222ca1  usr/share/lms2012-compat/apps/Brick Datalog/144x82_POP4.rgf
+a7904736b0951601e63bb97ef8d23311  usr/share/lms2012-compat/apps/Brick Datalog/Brick Datalog.rbf
+a40c190af86c8fa9a7fe9143b36b86ec  usr/share/lms2012-compat/apps/Brick Datalog/GeneralAlarm.rsf
+dcee5dc8a9c425e2ed02f188f3d94923  usr/share/lms2012-compat/apps/Brick Datalog/PE_input.rgf
+ce50162289ecdda809ad9056035c9aef  usr/share/lms2012-compat/apps/Brick Datalog/PE_output.rgf
+0fbd565fb065f5f7b85706ca69f96055  usr/share/lms2012-compat/apps/Brick Datalog/dlSetAccept.rgf
+8f79e2a203c4232564a70b5dfaaf9287  usr/share/lms2012-compat/apps/Brick Datalog/dlSetAcceptH.rgf
+f583aabb17054d814966e6a4cd21731e  usr/share/lms2012-compat/apps/Brick Datalog/dl_GR0_1.rgf
+470960873b1ba09df5c3bf308b2241a7  usr/share/lms2012-compat/apps/Brick Datalog/dl_GR0_10.rgf
+5e19c2404fd140e8f4dcd6e3d09cc533  usr/share/lms2012-compat/apps/Brick Datalog/dl_GR0_100.rgf
+4f63d46b684119cfa1be01f5494c8033  usr/share/lms2012-compat/apps/Brick Datalog/dl_GR0_250.rgf
+8b4f1174fc34a7558e93a83ddd5397d4  usr/share/lms2012-compat/apps/Brick Datalog/dl_GR0_8.rgf
+57744f1fbf5c578420f7af54d706a466  usr/share/lms2012-compat/apps/Brick Datalog/dl_GR_TC.rgf
+fd54399b88ea5fb6f0050ef4b9cd0041  usr/share/lms2012-compat/apps/Brick Datalog/dl_GRc100.rgf
+d26c84686c9445d1831d618578ce8bc2  usr/share/lms2012-compat/apps/Brick Datalog/dl_GRc180.rgf
+dd11cfd0f21305817d10c7bdef63784b  usr/share/lms2012-compat/apps/Brick Datalog/dl_GRc450.rgf
+b1008b4f96988eeec170e6e8d8d86198  usr/share/lms2012-compat/apps/Brick Datalog/dl_Highrate.rgf
+19874af10e3b40b293e5b65648da724a  usr/share/lms2012-compat/apps/Brick Datalog/dl_NoDetails.rgf
+f6bb79ad723e4a34515c1493827093c6  usr/share/lms2012-compat/apps/Brick Datalog/dl_Prt1.rgf
+64d5bd940aab2558addbd6da7d826c1d  usr/share/lms2012-compat/apps/Brick Datalog/dl_Prt2.rgf
+19d149191db0280d4c40bee745cf2c77  usr/share/lms2012-compat/apps/Brick Datalog/dl_Prt3.rgf
+a6230798cea9bc570cccf485a05bb1a0  usr/share/lms2012-compat/apps/Brick Datalog/dl_Prt4.rgf
+7573497bae7fa96d5dc96302f546403a  usr/share/lms2012-compat/apps/Brick Datalog/dl_PrtA.rgf
+403357510efdaec1cf30e00f8302d252  usr/share/lms2012-compat/apps/Brick Datalog/dl_PrtB.rgf
+55e59766ab03d95126e1b5844d7bcbcb  usr/share/lms2012-compat/apps/Brick Datalog/dl_PrtC.rgf
+7d827af7d0ee11d0f1f6b3f4b418d2d7  usr/share/lms2012-compat/apps/Brick Datalog/dl_PrtD.rgf
+18d18efd53d5fc4d471ea8667375b9e3  usr/share/lms2012-compat/apps/Brick Datalog/dl_PrtDetault.rgf
+9a5e399e940bc9d912020ed30ed666f0  usr/share/lms2012-compat/apps/Brick Datalog/dl_Prt_All.rgf
+cf0b8c76fdbe3cf49d7efe88a919cda3  usr/share/lms2012-compat/apps/Brick Datalog/dl_Prt_Er.rgf
+97cf94c426e9b7deefb28f5acb8731c4  usr/share/lms2012-compat/apps/Brick Datalog/dl_Prt_Un.rgf
+c1012e5f9e72655a2a84c1e007adb17e  usr/share/lms2012-compat/apps/Brick Datalog/dl_Rec.rgf
+9c0f0f21775e70599e8cbf5e67f82460  usr/share/lms2012-compat/apps/Brick Datalog/dl_RecH.rgf
+1ffbd3bbe22d44d3b6297457e5e43931  usr/share/lms2012-compat/apps/Brick Datalog/dl_Set.rgf
+3dec3279c5c4c2f60ea0ab17ea20a9b4  usr/share/lms2012-compat/apps/Brick Datalog/dl_SetH.rgf
+9d43f8bb50b8e10540d6d146a4a36c88  usr/share/lms2012-compat/apps/Brick Datalog/dl_count.rgf
+f88153fb3d29c99863a4145d63ca6c35  usr/share/lms2012-compat/apps/Brick Datalog/dl_mxave.rgf
+ea35a0d3eaf26b7528b184c824994ce1  usr/share/lms2012-compat/apps/Brick Datalog/icon.rgf
+0ead549dea7a903bc9dbaf99420da82d  usr/share/lms2012-compat/apps/Brick Datalog/t010.rgf
+0ead549dea7a903bc9dbaf99420da82d  usr/share/lms2012-compat/apps/Brick Datalog/t020.rgf
+0ead549dea7a903bc9dbaf99420da82d  usr/share/lms2012-compat/apps/Brick Datalog/t030.rgf
+0ead549dea7a903bc9dbaf99420da82d  usr/share/lms2012-compat/apps/Brick Datalog/t040.rgf
+0ead549dea7a903bc9dbaf99420da82d  usr/share/lms2012-compat/apps/Brick Datalog/t050.rgf
+77843daff8d0d1a608d29279733308c1  usr/share/lms2012-compat/apps/Brick Datalog/t060.rgf
+f6789fc510b863b147f6fb5a922cb031  usr/share/lms2012-compat/apps/Brick Datalog/t061.rgf
+e1822670be01fa84d8e59516789c4076  usr/share/lms2012-compat/apps/Brick Datalog/t070.rgf
+a32eb5a9304632ca2a6ee5daf5153240  usr/share/lms2012-compat/apps/Brick Datalog/t071.rgf
+9d14c7dede12858bf7b08393962f85b2  usr/share/lms2012-compat/apps/Brick Datalog/t080.rgf
+3430ecd5d1d0937e981fdffc467fe1fd  usr/share/lms2012-compat/apps/Brick Datalog/t081.rgf
+6e2df85f506bbf8582a84e0e26139a0d  usr/share/lms2012-compat/apps/Brick Datalog/t160.rgf
+9dd37d1dc7d3959c3b32fd20b11e3d82  usr/share/lms2012-compat/apps/Brick Datalog/t290.rgf
+9a3fddc891f7570af6bbe4dd2c3edf03  usr/share/lms2012-compat/apps/Brick Datalog/t291.rgf
+01a148e387107efc912e655695942f21  usr/share/lms2012-compat/apps/Brick Datalog/t292.rgf
+99c915adf91be7a1690bf6ea42197e72  usr/share/lms2012-compat/apps/Brick Datalog/t300.rgf
+dd4eb161d67102a13a9938f22b2664a4  usr/share/lms2012-compat/apps/Brick Datalog/t320.rgf
+a80d4577eb508d7af07e43b40ed0d7ba  usr/share/lms2012-compat/apps/Brick Datalog/t321.rgf
+f5e38997cd03d14acf02b257060911c2  usr/share/lms2012-compat/apps/Brick Datalog/t330.rgf
+3d77aeb495a2ad9ac0e739767f37a7bc  usr/share/lms2012-compat/apps/Brick Datalog/t331.rgf
+70d1bc91076df812bd51cd5c849b914d  usr/share/lms2012-compat/apps/Brick Datalog/t332.rgf
+77616050ad2f263deaa2ee182ee08424  usr/share/lms2012-compat/apps/Brick Datalog/tdef.rgf
+7713714119c62ec162a2aee7abe30da1  usr/share/lms2012-compat/apps/Brick Program/144x116_POP6.rgf
+2d2b1c815e643853765a7b9b60c9de71  usr/share/lms2012-compat/apps/Brick Program/A_BLit.rgf
+8b53de4577579ca5fc2c0a4dec704f20  usr/share/lms2012-compat/apps/Brick Program/A_BLitP1.rgf
+c02aedca36e40696de6f286ac400034d  usr/share/lms2012-compat/apps/Brick Program/A_BLitP2.rgf
+e3ee8e74f6e2c544244b5bf319d2abb0  usr/share/lms2012-compat/apps/Brick Program/A_BLitP3.rgf
+f05fc9d6b759f9e7e4a4183b15721bcf  usr/share/lms2012-compat/apps/Brick Program/A_BLitP4.rgf
+22274392f9f2db791e2b5f880a5d98ec  usr/share/lms2012-compat/apps/Brick Program/A_BLitP5.rgf
+5c15b323ff4ae2f8ce653342dab06c50  usr/share/lms2012-compat/apps/Brick Program/A_BLitP6.rgf
+71c59b5d81d3ea6de8a84b17e8c5f49d  usr/share/lms2012-compat/apps/Brick Program/A_BLitP7.rgf
+8274584ce2d037d71cb6711f4940a6ea  usr/share/lms2012-compat/apps/Brick Program/A_Disp.rgf
+707e2b34a5f9f12d9b5d3ab81fa23ea6  usr/share/lms2012-compat/apps/Brick Program/A_Lmot.rgf
+32c18440766eecd320b14ead1861404c  usr/share/lms2012-compat/apps/Brick Program/A_LoopP1.rgf
+dfa9ecfb58fdc78d357ec045221f352c  usr/share/lms2012-compat/apps/Brick Program/A_LoopP2.rgf
+ab1bbec6cad33bcfbe31025dc41d7898  usr/share/lms2012-compat/apps/Brick Program/A_LoopP3.rgf
+5dd91cf5229443c09006b8cfd70cb253  usr/share/lms2012-compat/apps/Brick Program/A_LoopP4.rgf
+675b155ac0c10159aeac8fcc7845bc9b  usr/share/lms2012-compat/apps/Brick Program/A_LoopP5.rgf
+823d0c80e8f8efd7ef27973048fc8bf4  usr/share/lms2012-compat/apps/Brick Program/A_LoopP6.rgf
+d4255609c0f7660ced97c3dae499d70e  usr/share/lms2012-compat/apps/Brick Program/A_LoopP7.rgf
+332c0e0df9315be867e347f29c090c8a  usr/share/lms2012-compat/apps/Brick Program/A_Mmot.rgf
+45cdcd789514e76edfc0ee15078e725e  usr/share/lms2012-compat/apps/Brick Program/A_Move.rgf
+96d0db3d795bc3f55fb777561dba09a4  usr/share/lms2012-compat/apps/Brick Program/A_MoveP1.rgf
+3dfab2448c604fa930629f9e5de6cbdc  usr/share/lms2012-compat/apps/Brick Program/A_MoveP2.rgf
+cc3293287cfd2bc2fea2e0c0f84bdb2a  usr/share/lms2012-compat/apps/Brick Program/A_MoveP3.rgf
+cca0e359d9450e0c2efa6fc367e005e7  usr/share/lms2012-compat/apps/Brick Program/A_MoveP4.rgf
+f2a08c4c33d0a3a204d06d10b9694a36  usr/share/lms2012-compat/apps/Brick Program/A_MoveP5.rgf
+64b502338431c8dfca368838f4715dbd  usr/share/lms2012-compat/apps/Brick Program/A_MoveP6.rgf
+41c5a366f71593b025c9283d602ea304  usr/share/lms2012-compat/apps/Brick Program/A_MoveP7.rgf
+48785eaed0e51e26e6588da160806ddc  usr/share/lms2012-compat/apps/Brick Program/A_MoveP8.rgf
+a6334001e2b13469e405a666accf761d  usr/share/lms2012-compat/apps/Brick Program/A_MoveP9.rgf
+69ade7b248c9816fad1d21a1f8dcf8c5  usr/share/lms2012-compat/apps/Brick Program/A_Snd.rgf
+58c7627f1155dc205c088b3695887a6f  usr/share/lms2012-compat/apps/Brick Program/A_motP1.rgf
+c18fc05c914c754b8e02ed5fbe2deee3  usr/share/lms2012-compat/apps/Brick Program/A_motP2.rgf
+11096e79e1eea472c98f5108a0a6a8f8  usr/share/lms2012-compat/apps/Brick Program/A_motP3.rgf
+f6b72c6d3287375c7a10334fab88e2ee  usr/share/lms2012-compat/apps/Brick Program/A_motP4.rgf
+dbd69202d7f0864ce00f8bf65798e19b  usr/share/lms2012-compat/apps/Brick Program/A_motP5.rgf
+79cc0469cfd2dc303342e2e5a9e01853  usr/share/lms2012-compat/apps/Brick Program/A_motP6.rgf
+86478b24ed926587cc9f3badba8047a4  usr/share/lms2012-compat/apps/Brick Program/A_motP7.rgf
+10e2e299688d39d1b1f357b8b6fdb02b  usr/share/lms2012-compat/apps/Brick Program/A_motP8.rgf
+1936bbf9662b0b7f63b7a675e3479c58  usr/share/lms2012-compat/apps/Brick Program/A_motP9.rgf
+96d0db3d795bc3f55fb777561dba09a4  usr/share/lms2012-compat/apps/Brick Program/A_numP01.rgf
+432f30c50230b0a262f8fea0a437c542  usr/share/lms2012-compat/apps/Brick Program/A_numP02.rgf
+36e1be218de68b4242f132b1d25ea20b  usr/share/lms2012-compat/apps/Brick Program/A_numP03.rgf
+baa62c5595b9d73a1dc363d55fd876d0  usr/share/lms2012-compat/apps/Brick Program/A_numP04.rgf
+3c204f68bab01ec4e3f3eee8b6b2ad53  usr/share/lms2012-compat/apps/Brick Program/A_numP05.rgf
+386a165f988f48932a2d39beb0b41cb1  usr/share/lms2012-compat/apps/Brick Program/A_numP06.rgf
+0f236879ee6660a0e48e3740fe0c4010  usr/share/lms2012-compat/apps/Brick Program/A_numP07.rgf
+5e4a3418f2ec599e6a5025b7fbfbac09  usr/share/lms2012-compat/apps/Brick Program/A_numP08.rgf
+cc8118accd164f584f98ab39412a464e  usr/share/lms2012-compat/apps/Brick Program/A_numP09.rgf
+d0cc7309e41fd514d605240fc446ae5b  usr/share/lms2012-compat/apps/Brick Program/A_numP10.rgf
+19b5a719acb9535d0437af1a6bf15e27  usr/share/lms2012-compat/apps/Brick Program/A_numP11.rgf
+ce08e894a577ce64bd9d3ec356a61816  usr/share/lms2012-compat/apps/Brick Program/A_numP12.rgf
+d4db547d371c445a898e8de5b6dc0fce  usr/share/lms2012-compat/apps/Brick Program/A_numP13.rgf
+789e32f9d062e2db420a00d8535d296a  usr/share/lms2012-compat/apps/Brick Program/BLKh.rgf
+a8ba81ad96bf9d1bb22d3f14d9a1a541  usr/share/lms2012-compat/apps/Brick Program/BLKn.rgf
+c9941bb2b259551a42c99a3e9bb4d299  usr/share/lms2012-compat/apps/Brick Program/BLKs.rgf
+483c50564dccd811f9e38c4e18804608  usr/share/lms2012-compat/apps/Brick Program/BlockAdd.rgf
+0948921814372999ff13a64bb9d15991  usr/share/lms2012-compat/apps/Brick Program/Blocklink.rgf
+aaf9423756ca96200312941b27f13f87  usr/share/lms2012-compat/apps/Brick Program/Brick Program.rbf
+a40c190af86c8fa9a7fe9143b36b86ec  usr/share/lms2012-compat/apps/Brick Program/GeneralAlarm.rsf
+1b25eaf26f7c8816fc606b5b5f08e164  usr/share/lms2012-compat/apps/Brick Program/LIBH1.rgf
+d23206610492e1e690e88679365b2b1b  usr/share/lms2012-compat/apps/Brick Program/LIBH2.rgf
+d36f1a6712b579c91d27712071b95e70  usr/share/lms2012-compat/apps/Brick Program/LibToProg.rgf
+83477b262d26cb08bf04fd7784b0419c  usr/share/lms2012-compat/apps/Brick Program/OnBrickImage01.rgf
+c01e316891e2737d1dcfe10da10d123b  usr/share/lms2012-compat/apps/Brick Program/OnBrickImage02.rgf
+47924c95a7a4f9dbe5d6824e676d869c  usr/share/lms2012-compat/apps/Brick Program/OnBrickImage03.rgf
+951f0bcf21fdcb4526f26cab711a1ce8  usr/share/lms2012-compat/apps/Brick Program/OnBrickImage04.rgf
+8cdc17ea49b8276efefc201aaef15938  usr/share/lms2012-compat/apps/Brick Program/OnBrickImage05.rgf
+c68c0b821a116ba6b096ba6f2f3da245  usr/share/lms2012-compat/apps/Brick Program/OnBrickImage06.rgf
+57909a71deabbbe12b6687354ca83e8e  usr/share/lms2012-compat/apps/Brick Program/OnBrickImage07.rgf
+5de600acc74ae3fb2b8a1e11dc6fe0ec  usr/share/lms2012-compat/apps/Brick Program/OnBrickImage08.rgf
+00ea813b71127c0fdb14589a85864b5b  usr/share/lms2012-compat/apps/Brick Program/OnBrickImage09.rgf
+67542acbc76c8ae7193b99533b42f829  usr/share/lms2012-compat/apps/Brick Program/OnBrickImage10.rgf
+01a973879de79c5d5932468039216719  usr/share/lms2012-compat/apps/Brick Program/OnBrickImage11.rgf
+793740dc73232fc69b2786f4b293823b  usr/share/lms2012-compat/apps/Brick Program/OnBrickImage12.rgf
+5c79d47da84b6be36ca52909bb0f8903  usr/share/lms2012-compat/apps/Brick Program/OnBrickSound01.rsf
+827942c4ccbe82f18f557e186d564c85  usr/share/lms2012-compat/apps/Brick Program/OnBrickSound02.rsf
+59016a8c871db3e49edd8dfea350af77  usr/share/lms2012-compat/apps/Brick Program/OnBrickSound03.rsf
+67482cf55676607c4e3dae3aa1dddea1  usr/share/lms2012-compat/apps/Brick Program/OnBrickSound04.rsf
+b0f66fcf023416b9e12e78633e93e5e7  usr/share/lms2012-compat/apps/Brick Program/OnBrickSound05.rsf
+ae393b9b6c11aebf85d846ce5cf991a5  usr/share/lms2012-compat/apps/Brick Program/OnBrickSound06.rsf
+84dd5e7d6d6aeb5358b1df252083f810  usr/share/lms2012-compat/apps/Brick Program/OnBrickSound07.rsf
+0d6fce953c00863b3a0ac64d742e6724  usr/share/lms2012-compat/apps/Brick Program/OnBrickSound08.rsf
+77ea024c8236520f08e1d8554af3aa2c  usr/share/lms2012-compat/apps/Brick Program/OnBrickSound09.rsf
+c3e8c3523b05d419a44acb44636a8a87  usr/share/lms2012-compat/apps/Brick Program/OnBrickSound10.rsf
+992a0330c4485b5b693e37f509b7497b  usr/share/lms2012-compat/apps/Brick Program/OnBrickSound11.rsf
+38b570001df303837bcfa58514c9d7ba  usr/share/lms2012-compat/apps/Brick Program/OnBrickSound12.rsf
+16b4fd720fc1666727acff477fd23c8d  usr/share/lms2012-compat/apps/Brick Program/Ph_1.rgf
+cf3c0e4feb74be9df62259da8bcf7a7c  usr/share/lms2012-compat/apps/Brick Program/Ph_2.rgf
+9c7084ca715b87c601b2a0da4f677ceb  usr/share/lms2012-compat/apps/Brick Program/Ph_3.rgf
+c0c9ab4882bd0048e680246b66e27a26  usr/share/lms2012-compat/apps/Brick Program/Ph_4.rgf
+54c40b35bd4e6b7d192c3f74e960efb6  usr/share/lms2012-compat/apps/Brick Program/Ph_a.rgf
+13424ab1ca2a9af37b89928098344e40  usr/share/lms2012-compat/apps/Brick Program/Ph_b.rgf
+c0ab1794475b302a6bbae42ad023e5a2  usr/share/lms2012-compat/apps/Brick Program/Ph_bc.rgf
+eb82392f5f396b2dbc4ad7d3acad0b9e  usr/share/lms2012-compat/apps/Brick Program/Ph_c.rgf
+70db5b3babed2a2e483948f3af93c493  usr/share/lms2012-compat/apps/Brick Program/Ph_d.rgf
+438eca888092d63bf62b41cf11a00dcc  usr/share/lms2012-compat/apps/Brick Program/Pn_1.rgf
+9789465c78369446d21d6eeeb0ad323d  usr/share/lms2012-compat/apps/Brick Program/Pn_2.rgf
+c8f850e596b6c283ba5885b5df2d9f00  usr/share/lms2012-compat/apps/Brick Program/Pn_3.rgf
+1be2ebe67c5fad74faf9ea2947f20b16  usr/share/lms2012-compat/apps/Brick Program/Pn_4.rgf
+fe47f0ec2198a1ea9918d8757f650815  usr/share/lms2012-compat/apps/Brick Program/Pn_a.rgf
+d562b58e6ff956137f33796dcc2498a5  usr/share/lms2012-compat/apps/Brick Program/Pn_b.rgf
+767fe9de45b50bada6430c1731228ea0  usr/share/lms2012-compat/apps/Brick Program/Pn_bc.rgf
+09a48c31411441dc9330c2f2c1c5206d  usr/share/lms2012-compat/apps/Brick Program/Pn_c.rgf
+7af8487a76a3a1e82fb1d0bf979c3ad9  usr/share/lms2012-compat/apps/Brick Program/Pn_d.rgf
+8b9d8c7f197a9b26928a5d311a429f59  usr/share/lms2012-compat/apps/Brick Program/PrgOpen.rgf
+a1aa37d678fffabf285404bedb193dce  usr/share/lms2012-compat/apps/Brick Program/PrgOpenH.rgf
+b9201471c401a79e054f738745d70fd7  usr/share/lms2012-compat/apps/Brick Program/PrgSave.rgf
+a9796325372f994779bb3c0ec99df2ab  usr/share/lms2012-compat/apps/Brick Program/PrgSaveH.rgf
+797d76b8e663815b8b650253a596b477  usr/share/lms2012-compat/apps/Brick Program/ProgNav.rgf
+05e5ba2bc560a70a07fdb7a122324f52  usr/share/lms2012-compat/apps/Brick Program/ProgNavdot.rgf
+eacecddd91c5930dc352ac3d8033e69c  usr/share/lms2012-compat/apps/Brick Program/Ps_1.rgf
+af4d5318872c3ffa7c1493212ffc7936  usr/share/lms2012-compat/apps/Brick Program/Ps_2.rgf
+60c8d820496b7ec5dca43b66dd31ced4  usr/share/lms2012-compat/apps/Brick Program/Ps_3.rgf
+d61b90087471df6a06cba0f2c1074a37  usr/share/lms2012-compat/apps/Brick Program/Ps_4.rgf
+995b2f3469acf2ff74497dc2731391d3  usr/share/lms2012-compat/apps/Brick Program/Ps_a.rgf
+2ac65bfc3463f875195ccae4a54575c2  usr/share/lms2012-compat/apps/Brick Program/Ps_b.rgf
+efaf81c17719b7755c0c404cae99ca04  usr/share/lms2012-compat/apps/Brick Program/Ps_bc.rgf
+6d6cc02aa19059fdc617c64962ce3a87  usr/share/lms2012-compat/apps/Brick Program/Ps_c.rgf
+c35aab8f2a85005612dc5ee78bdfdc3e  usr/share/lms2012-compat/apps/Brick Program/Ps_d.rgf
+228b52ac90625616e8135e5ec5af265d  usr/share/lms2012-compat/apps/Brick Program/RepBlkh.rgf
+85b50818e918dae12fc1b28145a33fec  usr/share/lms2012-compat/apps/Brick Program/RepBlkn.rgf
+a838065ce49e5ac89d8f4ee708453a7d  usr/share/lms2012-compat/apps/Brick Program/RepBlks.rgf
+0a70be2ecdf32956df1a3b95edca9449  usr/share/lms2012-compat/apps/Brick Program/StartBLKn.rgf
+3e2f237bf9a6a517f30d87fae5ad9f60  usr/share/lms2012-compat/apps/Brick Program/StartBLKs.rgf
+1432cf0b213f703d0c0f233cb75c29d6  usr/share/lms2012-compat/apps/Brick Program/ToLib.rgf
+e1d7966643e4d42c1851aef79b061d36  usr/share/lms2012-compat/apps/Brick Program/W_Touch.rgf
+4d20090e55036b0c5047331c14966f36  usr/share/lms2012-compat/apps/Brick Program/W_TouchP1.rgf
+c671bd4ae82dc72ae6c8a0eaaa2dda8c  usr/share/lms2012-compat/apps/Brick Program/W_TouchP2.rgf
+3749cc52a751e9091b12f1b35d173fb3  usr/share/lms2012-compat/apps/Brick Program/W_TouchP3.rgf
+002252e1881aaaa066bb972b920fe0e6  usr/share/lms2012-compat/apps/Brick Program/W_angP01.rgf
+bc0d99e927ec9143c1d2333a1570ba1b  usr/share/lms2012-compat/apps/Brick Program/W_angP02.rgf
+24ed3840b02c249991a3c7675d194c71  usr/share/lms2012-compat/apps/Brick Program/W_angP03.rgf
+70b4059c3c05aeddc2b596663569a8da  usr/share/lms2012-compat/apps/Brick Program/W_angP04.rgf
+ede71242cbca404e2e98bccc83c6ac2c  usr/share/lms2012-compat/apps/Brick Program/W_angP05.rgf
+d82bc53fa64ed61e700205e459eee8f7  usr/share/lms2012-compat/apps/Brick Program/W_angP06.rgf
+9be036e8c3cc80b8f36755ed24e87ccd  usr/share/lms2012-compat/apps/Brick Program/W_angP07.rgf
+85e3272f8835cedb39f919e0802efc32  usr/share/lms2012-compat/apps/Brick Program/W_angP08.rgf
+2f76662b7d2b09029a895f5681b74f8d  usr/share/lms2012-compat/apps/Brick Program/W_angP09.rgf
+791b9efaac5ac9d2cdd2d6fbfa2fa0e4  usr/share/lms2012-compat/apps/Brick Program/W_angP10.rgf
+e0a5c698d84915c675bf70bc0f4ec4ba  usr/share/lms2012-compat/apps/Brick Program/W_angP11.rgf
+24fd21421f8264fea0ec91229bbcea4b  usr/share/lms2012-compat/apps/Brick Program/W_angP12.rgf
+f09263f5e9dcc62e3bb77d865bcd9074  usr/share/lms2012-compat/apps/Brick Program/W_bbut.rgf
+52d37d3a47e1b954eba076beb2f53b03  usr/share/lms2012-compat/apps/Brick Program/W_bbutP1.rgf
+35f92ea0ef43b3f92c48569b711c08bb  usr/share/lms2012-compat/apps/Brick Program/W_bbutP2.rgf
+10c241a09d8b6d6d62fc5891e1453820  usr/share/lms2012-compat/apps/Brick Program/W_bbutP3.rgf
+b26d84fbd46f87b1638f7d4a78ad0482  usr/share/lms2012-compat/apps/Brick Program/W_bbutP4.rgf
+32b038e7f8714b4565cd5823a0164367  usr/share/lms2012-compat/apps/Brick Program/W_bbutP5.rgf
+c592f288c77d9d00d13cf9a6d8f52cef  usr/share/lms2012-compat/apps/Brick Program/W_colcol.rgf
+9fde47b38b72461f765155c72641242e  usr/share/lms2012-compat/apps/Brick Program/W_colcolP1.rgf
+137a565546c2517d3ba829f85852cd17  usr/share/lms2012-compat/apps/Brick Program/W_colcolP2.rgf
+22286e440a9af5444d55d2927998c619  usr/share/lms2012-compat/apps/Brick Program/W_colcolP3.rgf
+f33966f71f3841157cce68cec90b6390  usr/share/lms2012-compat/apps/Brick Program/W_colcolP4.rgf
+576dee3e9566d03f9081002dae390050  usr/share/lms2012-compat/apps/Brick Program/W_colcolP5.rgf
+c088a7f37a9a326925505cabdd0af99a  usr/share/lms2012-compat/apps/Brick Program/W_colcolP6.rgf
+4153fe2c33d9fa90fa90e161b24ac693  usr/share/lms2012-compat/apps/Brick Program/W_colcolP7.rgf
+c1b258f60edaff99aa9c659a2d57da4f  usr/share/lms2012-compat/apps/Brick Program/W_colcolP8.rgf
+828443d8dc0312936c97c5e4c241fad4  usr/share/lms2012-compat/apps/Brick Program/W_colref.rgf
+76b1771da91992a260896a6568c88a57  usr/share/lms2012-compat/apps/Brick Program/W_colrefP01.rgf
+6bc397a00f43524e7fc5d6a223dead63  usr/share/lms2012-compat/apps/Brick Program/W_colrefP02.rgf
+3b6838e0d39ddb7abe6f7a319b7660f2  usr/share/lms2012-compat/apps/Brick Program/W_colrefP03.rgf
+1678d6c1b8e4b0ae6f558af2f2b3d878  usr/share/lms2012-compat/apps/Brick Program/W_colrefP04.rgf
+0cb8f2429dfe4d2d00b076d84872a4ec  usr/share/lms2012-compat/apps/Brick Program/W_colrefP05.rgf
+a359ff2b7ab323a74aa1e8081df6c870  usr/share/lms2012-compat/apps/Brick Program/W_colrefP06.rgf
+96161aadc1cf2b446a481a5402848747  usr/share/lms2012-compat/apps/Brick Program/W_colrefP07.rgf
+c2007ebf1847ab9ce27134e62a39868f  usr/share/lms2012-compat/apps/Brick Program/W_colrefP08.rgf
+f7ab450dc49864653fa785e7efbee6c5  usr/share/lms2012-compat/apps/Brick Program/W_colrefP09.rgf
+2853894ea5108590a72a09142bd49e55  usr/share/lms2012-compat/apps/Brick Program/W_colrefP10.rgf
+4c43052bfb36aa48c97839894797adb8  usr/share/lms2012-compat/apps/Brick Program/W_colrefP11.rgf
+8468f2d6aee0ba2997c4486455be7f83  usr/share/lms2012-compat/apps/Brick Program/W_colrefP12.rgf
+1bfdd329adf536d871b52856d059d6a4  usr/share/lms2012-compat/apps/Brick Program/W_colrefP13.rgf
+f6a16beebea59d65a9bf1f7fb254dd35  usr/share/lms2012-compat/apps/Brick Program/W_colrefP14.rgf
+1b54b8370f4d3cd06f587b15f7d53a4d  usr/share/lms2012-compat/apps/Brick Program/W_colrefP15.rgf
+1ae3ffd1321df4e63f924c804ffb6d62  usr/share/lms2012-compat/apps/Brick Program/W_colrefP16.rgf
+5528a82e99d138b028e3e7ba63963acc  usr/share/lms2012-compat/apps/Brick Program/W_gyro.rgf
+3d6d8e0217d8c67c0d381839384b066a  usr/share/lms2012-compat/apps/Brick Program/W_irprox.rgf
+76b1771da91992a260896a6568c88a57  usr/share/lms2012-compat/apps/Brick Program/W_irproxP01.rgf
+3b6838e0d39ddb7abe6f7a319b7660f2  usr/share/lms2012-compat/apps/Brick Program/W_irproxP02.rgf
+0cb8f2429dfe4d2d00b076d84872a4ec  usr/share/lms2012-compat/apps/Brick Program/W_irproxP03.rgf
+96161aadc1cf2b446a481a5402848747  usr/share/lms2012-compat/apps/Brick Program/W_irproxP04.rgf
+f7ab450dc49864653fa785e7efbee6c5  usr/share/lms2012-compat/apps/Brick Program/W_irproxP05.rgf
+4c43052bfb36aa48c97839894797adb8  usr/share/lms2012-compat/apps/Brick Program/W_irproxP06.rgf
+1bfdd329adf536d871b52856d059d6a4  usr/share/lms2012-compat/apps/Brick Program/W_irproxP07.rgf
+1b54b8370f4d3cd06f587b15f7d53a4d  usr/share/lms2012-compat/apps/Brick Program/W_irproxP08.rgf
+4e31ab973b965ec1451727a5aa1b06b0  usr/share/lms2012-compat/apps/Brick Program/W_irrem.rgf
+82e12a538b1ed0379a71d17ceccc8580  usr/share/lms2012-compat/apps/Brick Program/W_irremP01.rgf
+a4d41f6191cb1ff91983b16de3a466ad  usr/share/lms2012-compat/apps/Brick Program/W_irremP02.rgf
+e42254c0c0fd41eecc1a6de4b29e8b8c  usr/share/lms2012-compat/apps/Brick Program/W_irremP03.rgf
+2d058aa244f6cf23b13ad5e0cc0b7642  usr/share/lms2012-compat/apps/Brick Program/W_irremP04.rgf
+0c0678b6c627ea02b33c7313d691036d  usr/share/lms2012-compat/apps/Brick Program/W_irremP05.rgf
+545a6e173e333defae35cdf1b673fb1d  usr/share/lms2012-compat/apps/Brick Program/W_irremP06.rgf
+bbdc172ff84c450496fb48cc0c51b30e  usr/share/lms2012-compat/apps/Brick Program/W_mmot.rgf
+9f5d501254d7b81a31e27d51a3bbebc0  usr/share/lms2012-compat/apps/Brick Program/W_temp.rgf
+71c392d2752222c80316c3597be2c263  usr/share/lms2012-compat/apps/Brick Program/W_tempP01.rgf
+2413c208fc4863cbd2fbf540d67545ec  usr/share/lms2012-compat/apps/Brick Program/W_tempP02.rgf
+0ce285a6cecbd56af20b6a79f1abf635  usr/share/lms2012-compat/apps/Brick Program/W_tempP03.rgf
+bd8349fcbfbb2349e7574d571d366ad8  usr/share/lms2012-compat/apps/Brick Program/W_tempP04.rgf
+6892b761ba676eeedf0c15ca104ec75e  usr/share/lms2012-compat/apps/Brick Program/W_tempP05.rgf
+5c09271fef9c398ce8fbf6db714cdd3c  usr/share/lms2012-compat/apps/Brick Program/W_tempP06.rgf
+c2007ebf1847ab9ce27134e62a39868f  usr/share/lms2012-compat/apps/Brick Program/W_tempP07.rgf
+f7ab450dc49864653fa785e7efbee6c5  usr/share/lms2012-compat/apps/Brick Program/W_tempP08.rgf
+6e1d3996a2f0252e38552bdd611e1f37  usr/share/lms2012-compat/apps/Brick Program/W_tempP09.rgf
+87c03b14bb566b58bd9978876e472e0e  usr/share/lms2012-compat/apps/Brick Program/W_tempP10.rgf
+dd9a8e5e14ddc2a932d452c2bdbea4cc  usr/share/lms2012-compat/apps/Brick Program/W_tempP11.rgf
+10d947a4971ad1f35f98a49ed8cec2eb  usr/share/lms2012-compat/apps/Brick Program/W_tempP12.rgf
+26ad0b959494d26396bfe8029692faf3  usr/share/lms2012-compat/apps/Brick Program/W_tempP13.rgf
+652d4aa147220d15c9f2d8433f5b48cc  usr/share/lms2012-compat/apps/Brick Program/W_tempP14.rgf
+1ae3ffd1321df4e63f924c804ffb6d62  usr/share/lms2012-compat/apps/Brick Program/W_tempP15.rgf
+a26fbbd3fcb94cbd6091de2cebaf0b5c  usr/share/lms2012-compat/apps/Brick Program/W_tempP16.rgf
+5e25e69e99e8c0aae61de08c3911330d  usr/share/lms2012-compat/apps/Brick Program/W_time.rgf
+07bb8e661bf86f5923ceecd14d7b8fce  usr/share/lms2012-compat/apps/Brick Program/W_timeP1.rgf
+79771392f644bd902e49fccb7e9494d5  usr/share/lms2012-compat/apps/Brick Program/W_timeP2.rgf
+39b14e536aeb6f349313dd96920261ab  usr/share/lms2012-compat/apps/Brick Program/W_timeP3.rgf
+17e4c2bbfccddfe64c2a692867671aab  usr/share/lms2012-compat/apps/Brick Program/W_timeP4.rgf
+c6dcebd5382d2795039f821b4fbf07f5  usr/share/lms2012-compat/apps/Brick Program/W_timeP5.rgf
+98fbaf968414b18ade4af8a2df6182c3  usr/share/lms2012-compat/apps/Brick Program/W_timeP6.rgf
+da7688e8e137ffbe76080a9465bf2d41  usr/share/lms2012-compat/apps/Brick Program/W_timeP7.rgf
+db5c6f00a090e2f1d0d5943555e1a82d  usr/share/lms2012-compat/apps/Brick Program/W_timeP8.rgf
+8831503a4ebc7e29e9b1a69703734072  usr/share/lms2012-compat/apps/Brick Program/W_us.rgf
+76b1771da91992a260896a6568c88a57  usr/share/lms2012-compat/apps/Brick Program/W_usP01.rgf
+c91d9ccdf3e585ae39d37f1ef6de592c  usr/share/lms2012-compat/apps/Brick Program/W_usP02.rgf
+6892b761ba676eeedf0c15ca104ec75e  usr/share/lms2012-compat/apps/Brick Program/W_usP03.rgf
+c2007ebf1847ab9ce27134e62a39868f  usr/share/lms2012-compat/apps/Brick Program/W_usP04.rgf
+e578bdb15f5768b45c1de189cb82a698  usr/share/lms2012-compat/apps/Brick Program/W_usP05.rgf
+2dc8bae77f27671473b11defb40c771d  usr/share/lms2012-compat/apps/Brick Program/W_usP06.rgf
+d7f04d6ae0e58dd19e37fd2ce4761865  usr/share/lms2012-compat/apps/Brick Program/W_usP07.rgf
+4f4bd72d7e7796ecb64afcd3f592d4c6  usr/share/lms2012-compat/apps/Brick Program/W_usP08.rgf
+b1dee32b651109c8c7d54d79506dc223  usr/share/lms2012-compat/apps/Brick Program/W_usP09.rgf
+389c9e87df9e624796772b0c4d4598d5  usr/share/lms2012-compat/apps/Brick Program/W_usP10.rgf
+26ad0b959494d26396bfe8029692faf3  usr/share/lms2012-compat/apps/Brick Program/W_usP11.rgf
+1ae3ffd1321df4e63f924c804ffb6d62  usr/share/lms2012-compat/apps/Brick Program/W_usP12.rgf
+39a16f096e9d1dbc010ba23967dca5f7  usr/share/lms2012-compat/apps/Brick Program/W_usP13.rgf
+85790953a3c96f602e2e37c67fd53985  usr/share/lms2012-compat/apps/Brick Program/W_usP14.rgf
+34fbf68a7b795f8a0782c1b85c5a09a7  usr/share/lms2012-compat/apps/Brick Program/W_usP15.rgf
+0a62ac1cc451ef8304027b8b9cbed7d3  usr/share/lms2012-compat/apps/Brick Program/W_usP16.rgf
+cd01629d029cede1073b4893e9817c90  usr/share/lms2012-compat/apps/Brick Program/block_bin.rgf
+5b400579bd1476c72dd0dc10078d14f0  usr/share/lms2012-compat/apps/Brick Program/icon.rgf
+d77ff3a6876f1b0b27c18818eebb8615  usr/share/lms2012-compat/apps/Brick Program/template.rbf
+85a66b3344c12cd3f94a17923da9788c  usr/share/lms2012-compat/apps/IR Control/IR Control.rbf
+1e004effc258cba9f81284d2ff4d34a0  usr/share/lms2012-compat/apps/IR Control/IRCtl12.rgf
+e4041cab5adb2f856419ed604f07c269  usr/share/lms2012-compat/apps/IR Control/IRCtl34.rgf
+9b9ca01eb80908f124c7f6898aec4807  usr/share/lms2012-compat/apps/IR Control/icon.rgf
+9fede78dbf8366d8beee1712a555d1b2  usr/share/lms2012-compat/apps/Motor Control/Motor Control.rbf
+6c76ab84d2bb12b1999f4306e8f9c8ee  usr/share/lms2012-compat/apps/Motor Control/MotorCtlAD.rgf
+102b7460d6b747d66fbdeb721328f912  usr/share/lms2012-compat/apps/Motor Control/MotorCtlBC.rgf
+9b9ca01eb80908f124c7f6898aec4807  usr/share/lms2012-compat/apps/Motor Control/icon.rgf
+dcee5dc8a9c425e2ed02f188f3d94923  usr/share/lms2012-compat/apps/Port View/PE_input.rgf
+ce50162289ecdda809ad9056035c9aef  usr/share/lms2012-compat/apps/Port View/PE_output.rgf
+43cea6f5453c4504c32202da6ce5ec2d  usr/share/lms2012-compat/apps/Port View/Port View.rbf
+1424346c0bca35d20f86747997958a1b  usr/share/lms2012-compat/apps/Port View/ViewBot.rgf
+6c5dce3e9e74852135f8673ae14726be  usr/share/lms2012-compat/apps/Port View/ViewCore.rgf
+13d2000f4c76bd81fbbdea124e0a7d5c  usr/share/lms2012-compat/apps/Port View/ViewP1.rgf
+81a95d85c1ad44c129cfdf5525535327  usr/share/lms2012-compat/apps/Port View/ViewP2.rgf
+582ee8586e647e70d1426c52190c6c28  usr/share/lms2012-compat/apps/Port View/ViewP3.rgf
+a15eae9da7250b129144fe8bc05eeabc  usr/share/lms2012-compat/apps/Port View/ViewP4.rgf
+cf65d46de7a864fa30468a2f8a4a609b  usr/share/lms2012-compat/apps/Port View/ViewPA.rgf
+83e2b59118aefc24f2298cb29b3aac70  usr/share/lms2012-compat/apps/Port View/ViewPB.rgf
+5c75479bb401aad8b9f80ed92453c8ec  usr/share/lms2012-compat/apps/Port View/ViewPC.rgf
+be5a189b50a059f7569cd0027e4bbfb2  usr/share/lms2012-compat/apps/Port View/ViewPD.rgf
+bf2541d75bc61dda033b14baf49c5df4  usr/share/lms2012-compat/apps/Port View/ViewTop.rgf
+aab76ea94c3aa7b1220f285b87113d19  usr/share/lms2012-compat/apps/Port View/icon.rgf
+0ead549dea7a903bc9dbaf99420da82d  usr/share/lms2012-compat/apps/Port View/t010.rgf
+0ead549dea7a903bc9dbaf99420da82d  usr/share/lms2012-compat/apps/Port View/t020.rgf
+0ead549dea7a903bc9dbaf99420da82d  usr/share/lms2012-compat/apps/Port View/t030.rgf
+0ead549dea7a903bc9dbaf99420da82d  usr/share/lms2012-compat/apps/Port View/t040.rgf
+0ead549dea7a903bc9dbaf99420da82d  usr/share/lms2012-compat/apps/Port View/t050.rgf
+77843daff8d0d1a608d29279733308c1  usr/share/lms2012-compat/apps/Port View/t060.rgf
+f6789fc510b863b147f6fb5a922cb031  usr/share/lms2012-compat/apps/Port View/t061.rgf
+e1822670be01fa84d8e59516789c4076  usr/share/lms2012-compat/apps/Port View/t070.rgf
+a32eb5a9304632ca2a6ee5daf5153240  usr/share/lms2012-compat/apps/Port View/t071.rgf
+9d14c7dede12858bf7b08393962f85b2  usr/share/lms2012-compat/apps/Port View/t080.rgf
+3430ecd5d1d0937e981fdffc467fe1fd  usr/share/lms2012-compat/apps/Port View/t081.rgf
+6e2df85f506bbf8582a84e0e26139a0d  usr/share/lms2012-compat/apps/Port View/t160.rgf
+9dd37d1dc7d3959c3b32fd20b11e3d82  usr/share/lms2012-compat/apps/Port View/t290.rgf
+9a3fddc891f7570af6bbe4dd2c3edf03  usr/share/lms2012-compat/apps/Port View/t291.rgf
+01a148e387107efc912e655695942f21  usr/share/lms2012-compat/apps/Port View/t292.rgf
+99c915adf91be7a1690bf6ea42197e72  usr/share/lms2012-compat/apps/Port View/t300.rgf
+dd4eb161d67102a13a9938f22b2664a4  usr/share/lms2012-compat/apps/Port View/t320.rgf
+a80d4577eb508d7af07e43b40ed0d7ba  usr/share/lms2012-compat/apps/Port View/t321.rgf
+f5e38997cd03d14acf02b257060911c2  usr/share/lms2012-compat/apps/Port View/t330.rgf
+3d77aeb495a2ad9ac0e739767f37a7bc  usr/share/lms2012-compat/apps/Port View/t331.rgf
+70d1bc91076df812bd51cd5c849b914d  usr/share/lms2012-compat/apps/Port View/t332.rgf
+77616050ad2f263deaa2ee182ee08424  usr/share/lms2012-compat/apps/Port View/tdef.rgf
+fb8dd53707b1420f3a302435fe2a4b0b  usr/share/lms2012-compat/prjs/BrkProg_SAVE/Demo.rpf
+7816a58fe4304799aa5a5e749a58c21c  usr/share/lms2012-compat/prjs/Demo/Demo.rbf
+a091c3497345846adab874a685b671fa  usr/share/lms2012-compat/prjs/SelfTest/Run.rbf
+c3a0fba825ed928124c06d56f0019a91  usr/share/lms2012-compat/prjs/SelfTest/Test0101.rbf
+94cb6b8371934c03c16269d88f6f6908  usr/share/lms2012-compat/prjs/SelfTest/Test0102.rbf
+9ebea85e8325b44aceb2ddfcbf7d4da7  usr/share/lms2012-compat/prjs/SelfTest/Test0103.rbf
+fc9cad3d8f0a6e26e1506f3b8e19b1cf  usr/share/lms2012-compat/prjs/SelfTest/Test0104.rbf
+6dbfc98e80b84aa7a95c4d21dec0438f  usr/share/lms2012-compat/prjs/SelfTest/Test0105.rbf
+13c53a1e0431679dd8da114db94e0749  usr/share/lms2012-compat/prjs/SelfTest/Test0106.rbf
+ac9e236459f5b9c7ff4766767acaa2c3  usr/share/lms2012-compat/prjs/SelfTest/Test0107.rbf
+d676670ee128f2db915fb250d644751f  usr/share/lms2012-compat/prjs/SelfTest/Test0108.rbf
+e494dd37aa3b5739461f63bbd09ae729  usr/share/lms2012-compat/prjs/SelfTest/Test0109.rbf
+99fc67c3948cf4b91db0f1f77cbe54ae  usr/share/lms2012-compat/prjs/SelfTest/Test0110.rbf
+5b579fb814c341badbaa1e6fb68a3aed  usr/share/lms2012-compat/prjs/SelfTest/Test0201.rbf
+63af7cb38c4c40c77146dd0c40285b91  usr/share/lms2012-compat/prjs/SelfTest/Test0202.rbf
+4fc566cb8db8bb5a32fc9e9d760904e1  usr/share/lms2012-compat/prjs/SelfTest/TestPrg1.rbf
+57035cca28433db1dfed5b468d8116a8  usr/share/lms2012-compat/prjs/SelfTest/TestPrg2.rbf
+72f09b35c31db25eb0fe41e538dd5400  usr/share/lms2012-compat/prjs/TEST/Change Name.rbf
+3b7348be88f82a5fdd1c793580c3feb9  usr/share/lms2012-compat/prjs/TEST/Debug.rbf
+53f214a90c153be99bc640d548ea7c1f  usr/share/lms2012-compat/prjs/TEST/Display.rbf
+4b09e0d700bce691097be8f148569190  usr/share/lms2012-compat/prjs/TEST/Leds.rbf
+fed3f1f26954636a6428993380285503  usr/share/lms2012-compat/prjs/TEST/Motors.rbf
+dd991176fcfdae085a5dcfaa13a38418  usr/share/lms2012-compat/prjs/TEST/NoDebug.rbf
+58120f3ebb0dd3a4de46c3c33f302b25  usr/share/lms2012-compat/prjs/TEST/Performance.rbf
+9784f58a2412f72a64b9abaff561a7a5  usr/share/lms2012-compat/prjs/TEST/Power.rbf
+35418aaecbd2f6e9747d39a27ee6a70f  usr/share/lms2012-compat/prjs/TEST/SDCard.rbf
+995e0284e49a3966bfa1dee934a814f1  usr/share/lms2012-compat/prjs/TEST/Sensors.rbf
+ada1c933f01484b32bb30cc7216f9584  usr/share/lms2012-compat/prjs/TEST/Sound.rbf
+749764cf4b44074e3fb9135bf4e24e09  usr/share/lms2012-compat/prjs/TEST/Test.rsf
+17cd2f73de3a5b1ab315be13526d65a1  usr/share/lms2012-compat/prjs/TEST/USlevel.rbf
+38e6a49de1f7bccfb32fd2eb6a2f0c51  usr/share/lms2012-compat/prjs/TEST/UnlockDatalog.rbf
+5af540d0d8de748c60423b3f0c8437a6  usr/share/lms2012-compat/scripts/install-to-working-directory.sh
+f5de065be2627f451181afdc2433411a  usr/share/lms2012-compat/scripts/usb-hid-gadget.sh
+e6f286bde9207ae836818d0d0fb03ea1  usr/share/lms2012-compat/sys/settings/typedata.rcf
+749a40ec55fbcf2ad9b9677beb40ace3  usr/share/lms2012-compat/sys/settings/typedata50.rcf
+7816a58fe4304799aa5a5e749a58c21c  usr/share/lms2012-compat/sys/tst/Performance.rbf
+16ff9cbe9f95cf5ace6f478bb93c3aa5  usr/share/lms2012-compat/sys/tst/si.rbf
+7fa84a2ecd2c14e7cbce19d016b0461b  usr/share/lms2012-compat/sys/tst/tst.rbf
+b940b957d8c60f40a4666bba99936cea  usr/share/lms2012-compat/sys/tst/tstiic.rbf
+9fd854757b5fd764f97ccd7e065b3821  usr/share/lms2012-compat/sys/tst/tstlog.rbf
+9d7591f8b2360092500e7c341b6236b7  usr/share/lms2012-compat/sys/tst/tstmath.rbf
+390b3f11e26a6f37fd057806b7545490  usr/share/lms2012-compat/sys/tst/tststr.rbf
+b56fad21ae30f6868ba1c1abb964e207  usr/share/lms2012-compat/sys/tst/us.rbf
+2bed43a3d00a5842e4b91e136d232cea  usr/share/lms2012-compat/sys/ui/144x65_POP3.rgf
+7e255363590442e339f93cbdaf222ca1  usr/share/lms2012-compat/sys/ui/144x82_POP4.rgf
+ab225e46367e84d5fc23649ec4de1ce9  usr/share/lms2012-compat/sys/ui/Ani1x.rgf
+a16f9f1fddacf56edf81b4cd968826b4  usr/share/lms2012-compat/sys/ui/Click.rsf
+681c88b5930de152c0bb096f890c492f  usr/share/lms2012-compat/sys/ui/DownloadSuccess.rsf
+a40c190af86c8fa9a7fe9143b36b86ec  usr/share/lms2012-compat/sys/ui/GeneralAlarm.rsf
+be802df67cbbc4e4a40c223bfff4c14a  usr/share/lms2012-compat/sys/ui/OverpowerAlert.rsf
+2381ef46c5166bff0b5852369e5a2cc7  usr/share/lms2012-compat/sys/ui/PowerDown.rsf
+7be0a201f57917bc0dde508e63dd7ad8  usr/share/lms2012-compat/sys/ui/Startup.rsf
+19ea377dad1869512b3759e28b6deccd  usr/share/lms2012-compat/sys/ui/apps_screen.rgf
+eff6fae6c487828734800afb912dd700  usr/share/lms2012-compat/sys/ui/file_screen.rgf
+bced9cc85fcb72259f4901e836aed8df  usr/share/lms2012-compat/sys/ui/mindstorms.rgf
+cdbae801b780484d80da95538cf867c2  usr/share/lms2012-compat/sys/ui/playrecent_screen.rgf
+ace80443d1fa8736231ba21d63260ca4  usr/share/lms2012-compat/sys/ui/screen.rgf
+55186477fdbaf838aeda09bfdbfaaba2  usr/share/lms2012-compat/sys/ui/settings_screen.rgf
+6f46636743fbde68b489071e590f0752  usr/share/lms2012-compat/sys/ui/ui.rbf
+7713714119c62ec162a2aee7abe30da1  usr/share/lms2012-compat/tools/Bluetooth/144x116_POP6.rgf
+2269c8d766f99639d6e2f206772a0845  usr/share/lms2012-compat/tools/Bluetooth/144x48_POP2.rgf
+2bed43a3d00a5842e4b91e136d232cea  usr/share/lms2012-compat/tools/Bluetooth/144x65_POP3.rgf
+7e255363590442e339f93cbdaf222ca1  usr/share/lms2012-compat/tools/Bluetooth/144x82_POP4.rgf
+e7a2b9fc507981f4acc88b65f4181875  usr/share/lms2012-compat/tools/Bluetooth/144x99_POP5.rgf
+023c50cea4e09371d19cd603ac2a86f1  usr/share/lms2012-compat/tools/Bluetooth/Bluetooth.rbf
+30a4e295f6ae90c91aff82883a0ef415  usr/share/lms2012-compat/tools/Bluetooth/Connect.rsf
+a40c190af86c8fa9a7fe9143b36b86ec  usr/share/lms2012-compat/tools/Bluetooth/GeneralAlarm.rsf
+d99f90260f15d8402950ff2090a45243  usr/share/lms2012-compat/tools/Bluetooth/icon.rgf
+944837e970d160f5fe463fc833cebbf6  usr/share/lms2012-compat/tools/Bluetooth/mode2.rgf
+7713714119c62ec162a2aee7abe30da1  usr/share/lms2012-compat/tools/Brick Info/144x116_POP6.rgf
+bc8c75479a62140c07f7fd015feb7a83  usr/share/lms2012-compat/tools/Brick Info/Brick Info.rbf
+d99f90260f15d8402950ff2090a45243  usr/share/lms2012-compat/tools/Brick Info/icon.rgf
+35583bed872e85f5a2a30156be009902  usr/share/lms2012-compat/tools/Brick Name/Brick Name.rbf
+d99f90260f15d8402950ff2090a45243  usr/share/lms2012-compat/tools/Brick Name/icon.rgf
+148a6a177b893bd0d836294566b9920a  usr/share/lms2012-compat/tools/Debug/Debug.rbf
+d99f90260f15d8402950ff2090a45243  usr/share/lms2012-compat/tools/Debug/icon.rgf
+302f1e5fc336c0d526ec9527551fe03d  usr/share/lms2012-compat/tools/Sleep/144x32_POP1.rgf
+26fdce4b310d803cfc58cfb60910dad5  usr/share/lms2012-compat/tools/Sleep/Sleep.rbf
+d99f90260f15d8402950ff2090a45243  usr/share/lms2012-compat/tools/Sleep/icon.rgf
+98b3aa8144a5c66c2ab70aa6e8a06e12  usr/share/lms2012-compat/tools/Test/Test.rbf
+749764cf4b44074e3fb9135bf4e24e09  usr/share/lms2012-compat/tools/Test/Test.rsf
+d99f90260f15d8402950ff2090a45243  usr/share/lms2012-compat/tools/Test/icon.rgf
+2bed43a3d00a5842e4b91e136d232cea  usr/share/lms2012-compat/tools/Test/pop3.rgf
+7713714119c62ec162a2aee7abe30da1  usr/share/lms2012-compat/tools/Test/pop6.rgf
+302f1e5fc336c0d526ec9527551fe03d  usr/share/lms2012-compat/tools/Volume/144x32_POP1.rgf
+501bde7f51cd7445056ae6a84c38463c  usr/share/lms2012-compat/tools/Volume/Volume.rbf
+d99f90260f15d8402950ff2090a45243  usr/share/lms2012-compat/tools/Volume/icon.rgf
+7713714119c62ec162a2aee7abe30da1  usr/share/lms2012-compat/tools/WiFi/144x116_POP6.rgf
+2269c8d766f99639d6e2f206772a0845  usr/share/lms2012-compat/tools/WiFi/144x48_POP2.rgf
+2bed43a3d00a5842e4b91e136d232cea  usr/share/lms2012-compat/tools/WiFi/144x65_POP3.rgf
+7e255363590442e339f93cbdaf222ca1  usr/share/lms2012-compat/tools/WiFi/144x82_POP4.rgf
+e7a2b9fc507981f4acc88b65f4181875  usr/share/lms2012-compat/tools/WiFi/144x99_POP5.rgf
+30a4e295f6ae90c91aff82883a0ef415  usr/share/lms2012-compat/tools/WiFi/Connect.rsf
+a40c190af86c8fa9a7fe9143b36b86ec  usr/share/lms2012-compat/tools/WiFi/GeneralAlarm.rsf
+1e6c6aabbda69f7d66cbfbc81a880c6d  usr/share/lms2012-compat/tools/WiFi/WiFi.rbf
+d99f90260f15d8402950ff2090a45243  usr/share/lms2012-compat/tools/WiFi/icon.rgf
+d1f23f7bb6008d1fba54fe8830ae33e9  usr/share/man/man8/lms2012-compat.8.gz

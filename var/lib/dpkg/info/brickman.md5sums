@@ -1,0 +1,9 @@
+4298ca369af8903678c5c58c7b24a224  lib/systemd/system/brickman.service
+16c44947cc292258f747f417655fb85c  usr/sbin/brickman
+71282f119bd7ec87a20f80a114c5e873  usr/share/brickman/openroberta-connected12x9.png
+81bd631f97e0c51d3ac8357d69e4a0dc  usr/share/brickman/openroberta-connected16x16.png
+1c283660147c13fc1cce9c4e879557a6  usr/share/brickman/openroberta-idle12x9.png
+9254868635dae7c3128c120d588ffa5b  usr/share/brickman/openroberta-idle16x16.png
+4187be858fc3f3d201a37956f0dbbadc  usr/share/brickman/splash.png
+6455e698238a235ee195a11e96eb6eec  usr/share/doc/brickman/changelog.gz
+ef12d6dab5dac52c8979c0bd06949902  usr/share/doc/brickman/copyright

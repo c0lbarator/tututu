@@ -1,0 +1,15 @@
+/.
+/usr
+/usr/bin
+/usr/bin/conspy
+/usr/share
+/usr/share/doc
+/usr/share/doc/conspy
+/usr/share/doc/conspy/README.txt
+/usr/share/doc/conspy/changelog.Debian.armel.gz
+/usr/share/doc/conspy/changelog.Debian.gz
+/usr/share/doc/conspy/changelog.gz
+/usr/share/doc/conspy/copyright
+/usr/share/man
+/usr/share/man/man1
+/usr/share/man/man1/conspy.1.gz

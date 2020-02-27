@@ -1,0 +1,5 @@
+5fea860cd8e5a4331df3dd8a534a16e3  lib/arm-linux-gnueabi/libnss_resolve.so.2
+d92f822b8cec606c9b704b31c8991082  usr/share/doc/libnss-resolve/changelog.Debian.gz
+9eff90b026f0601b306e161c7b9f991e  usr/share/doc/libnss-resolve/copyright
+888dd94208d3bcc75b2a96e7edc04db2  usr/share/lintian/overrides/libnss-resolve
+1a5f9f942c5a37a26351f1f1927fa931  usr/share/man/man8/nss-resolve.8.gz

@@ -1,0 +1,15 @@
+/.
+/usr
+/usr/lib
+/usr/lib/python3
+/usr/lib/python3/dist-packages
+/usr/lib/python3/dist-packages/gattlib-0.20150805.egg-info
+/usr/lib/python3/dist-packages/gattlib-0.20150805.egg-info/PKG-INFO
+/usr/lib/python3/dist-packages/gattlib-0.20150805.egg-info/dependency_links.txt
+/usr/lib/python3/dist-packages/gattlib-0.20150805.egg-info/top_level.txt
+/usr/lib/python3/dist-packages/gattlib.cpython-35m-arm-linux-gnueabi.so
+/usr/share
+/usr/share/doc
+/usr/share/doc/python3-gattlib
+/usr/share/doc/python3-gattlib/changelog.Debian.gz
+/usr/share/doc/python3-gattlib/copyright

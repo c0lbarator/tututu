@@ -1,0 +1,9 @@
+#!/bin/sh
+set -e
+# Automatically added by dh_installmodules/11.1.6ubuntu2
+if [ "$1" = "configure" ] || [ "$1" = "abort-upgrade" ] || [ "$1" = "abort-deconfigure" ] || [ "$1" = "abort-remove" ] ; then
+	if [ -e /boot/System.map-4.14.117-ev3dev-2.3.4-ev3 ]; then
+		depmod -a -F /boot/System.map-4.14.117-ev3dev-2.3.4-ev3 4.14.117-ev3dev-2.3.4-ev3 || true
+	fi
+fi
+# End automatically added section

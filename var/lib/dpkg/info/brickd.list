@@ -1,0 +1,13 @@
+/.
+/lib
+/lib/systemd
+/lib/systemd/system
+/lib/systemd/system/brickd.service
+/usr
+/usr/sbin
+/usr/sbin/brickd
+/usr/share
+/usr/share/doc
+/usr/share/doc/brickd
+/usr/share/doc/brickd/changelog.gz
+/usr/share/doc/brickd/copyright

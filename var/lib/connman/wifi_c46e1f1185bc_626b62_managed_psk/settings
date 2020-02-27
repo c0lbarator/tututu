@@ -1,0 +1,12 @@
+[wifi_c46e1f1185bc_626b62_managed_psk]
+Name=bkb
+SSID=626b62
+Frequency=2462
+Favorite=true
+AutoConnect=true
+Modified=2020-02-26T18:51:20.346444Z
+Passphrase=88888888
+IPv4.method=dhcp
+IPv4.DHCP.LastAddress=192.168.43.175
+IPv6.method=auto
+IPv6.privacy=disabled
